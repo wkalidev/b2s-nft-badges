@@ -1,5 +1,34 @@
 {
-  "name": "b2s-nft-badges",
+  "name": "@b2s/nft-badges",
   "version": "1.0.0",
-  "description": "NFT badges for B2S ecosystem"
+  "description": "NFT achievement badges for B2S ecosystem",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "scripts": {
+    "test": "clarinet test",
+    "deploy": "clarinet deploy --testnet",
+    "check": "clarinet check"
+  },
+  "keywords": [
+    "nft",
+    "badges",
+    "achievements",
+    "stacks",
+    "blockchain",
+    "sip-009",
+    "gamification"
+  ],
+  "author": "wkalidev (zcodebase)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/wkalidev/b2s-nft-badges.git"
+  },
+  "dependencies": {
+    "@stacks/transactions": "^6.0.0",
+    "@stacks/network": "^6.0.0"
+  },
+  "devDependencies": {
+    "clarinet": "^1.0.0"
+  }
 }
