@@ -1,0 +1,1802 @@
+{
+  "201": {
+    "tokenId": 201,
+    "cid": "QmVYPHKStGc13q9nrjGMFZ6BCYQ9Me7rRg93hBbFPjCbNA",
+    "rarity": "common",
+    "trait": "Shellcoder"
+  },
+  "202": {
+    "tokenId": 202,
+    "cid": "QmPuSPKUGniwisvDwepQkY4p9TkKYeZWEttAbJqSnjKxFG",
+    "rarity": "epic",
+    "trait": "Network Sniffer"
+  },
+  "203": {
+    "tokenId": 203,
+    "cid": "Qme7TMV16qbsfuS6K8MxD6pLHaM78cApXiGZ43tqvR4H33",
+    "rarity": "common",
+    "trait": "Steganographer"
+  },
+  "204": {
+    "tokenId": 204,
+    "cid": "Qmd8FrXLc8mk9NxgUfMWWNuzTtYr3z2wJJ5zX5RjS9DPXN",
+    "rarity": "uncommon",
+    "trait": "DeFi Hacker"
+  },
+  "205": {
+    "tokenId": 205,
+    "cid": "QmSvF7z5DjjNyqw7sxbTpYeGesKkKp2teX7hMCwTyY6wEj",
+    "rarity": "common",
+    "trait": "Flash Loan Wizard"
+  },
+  "206": {
+    "tokenId": 206,
+    "cid": "QmXfNyQmjN3NW8aUqBZKCuLXymuuoC5TK1a2ECzeT9gzUY",
+    "rarity": "common",
+    "trait": "MEV Hunter"
+  },
+  "207": {
+    "tokenId": 207,
+    "cid": "QmP4E9a6gfgtK5NZiKBAZiuEmx1VkBUf6RpLUgjSLN2FWQ",
+    "rarity": "uncommon",
+    "trait": "Smart Contract Auditor"
+  },
+  "208": {
+    "tokenId": 208,
+    "cid": "QmTWpQKPu97oSJpkmNzHyHQ7seM4UWBbreLPnnxhEc3kHB",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "209": {
+    "tokenId": 209,
+    "cid": "QmUFLrLVMhd1EeArxzG72XDmNFdLhwSsfQZT54NsLYFCPq",
+    "rarity": "common",
+    "trait": "Rug Detector"
+  },
+  "210": {
+    "tokenId": 210,
+    "cid": "QmRxGP4N19FTrcsriu4tX6sH5TfmgQAAFdHtqQ546rVp8s",
+    "rarity": "common",
+    "trait": "Whale Watcher"
+  },
+  "211": {
+    "tokenId": 211,
+    "cid": "QmPSf4aPFW7xapeESSKNhW46vFaaddkg6pePM5D94Tgrzh",
+    "rarity": "uncommon",
+    "trait": "Liquidity Sniper"
+  },
+  "212": {
+    "tokenId": 212,
+    "cid": "QmUX1RseeVngkznPrwG5XzBcyaZNrZvnn5xeLXeZDa8sUK",
+    "rarity": "common",
+    "trait": "On-Chain Analyst"
+  },
+  "213": {
+    "tokenId": 213,
+    "cid": "QmaS6PqXC1aL4s9mAoksSPEP8SZ6VEjgdEuZi73g84TGfZ",
+    "rarity": "epic",
+    "trait": "Governance Voter"
+  },
+  "214": {
+    "tokenId": 214,
+    "cid": "QmTDYuYLqiB3SqtgbwyXep1nmPR2yajjctMEeUzYuxs1Co",
+    "rarity": "uncommon",
+    "trait": "Yield Optimizer"
+  },
+  "215": {
+    "tokenId": 215,
+    "cid": "QmXYtmtvSrVR9pXRVC5PRZE5oFSF9rxQ1XMbdciLiGxd8D",
+    "rarity": "uncommon",
+    "trait": "Cross-Chain Ranger"
+  },
+  "216": {
+    "tokenId": 216,
+    "cid": "QmQqewYFHuZKm5UMvNDP4tkUcwhnSSWMJJ3Md2AgDZHM78",
+    "rarity": "uncommon",
+    "trait": "Blockchain Forensic"
+  },
+  "217": {
+    "tokenId": 217,
+    "cid": "QmZ2wF5B3q8qDMzz8Z3jAaZvX8fnXCHmaUmb6GxFprW3Nw",
+    "rarity": "common",
+    "trait": "Crypto OSINT"
+  },
+  "218": {
+    "tokenId": 218,
+    "cid": "QmVHFqd2MxUCCQF7wffA2ixLyYbHcEmAvNVbUvAS6j3dbR",
+    "rarity": "common",
+    "trait": "Web3 Red Team"
+  },
+  "219": {
+    "tokenId": 219,
+    "cid": "QmUUF7cbtvbWFtD7QfPgAeYDCkeK3bCV4Xu3munGECuSMB",
+    "rarity": "common",
+    "trait": "DAO Infiltrator"
+  },
+  "220": {
+    "tokenId": 220,
+    "cid": "QmaeiLLKccVBDmqLQgEPzUqef4WxCxPG6brrcEx6WYHLUZ",
+    "rarity": "uncommon",
+    "trait": "Token Engineer"
+  },
+  "221": {
+    "tokenId": 221,
+    "cid": "Qmf3hfxbv9xeqftNhm9Czz67atQkV6RqdEgbddj2EKcqss",
+    "rarity": "common",
+    "trait": "ZK Prover"
+  },
+  "222": {
+    "tokenId": 222,
+    "cid": "QmeJEMBcZELsUEQ8BU6cbJv3JhhMbBJq8Fd5bLqWuvKUVA",
+    "rarity": "common",
+    "trait": "Sandwich Botter"
+  },
+  "223": {
+    "tokenId": 223,
+    "cid": "Qmdzw8kDG3m3ZnFBBo1n7QkREqzzccaS8LLkzgtzYEpKVw",
+    "rarity": "rare",
+    "trait": "Mempool Watcher"
+  },
+  "224": {
+    "tokenId": 224,
+    "cid": "Qmb8wPJiFg2QPeSGebBccxnHMWomdYb2CoYRSFUziVRjid",
+    "rarity": "common",
+    "trait": "Social Engineer"
+  },
+  "225": {
+    "tokenId": 225,
+    "cid": "QmVcQwxisfKwkuYyooAoWboJRgA2yU1Rt842WwpqhBdXhW",
+    "rarity": "common",
+    "trait": "Malware Dev"
+  },
+  "226": {
+    "tokenId": 226,
+    "cid": "QmP8oCVgKKtNmG7tyMGi9KBYdSecqntBgNAxqs4cC7nHx8",
+    "rarity": "common",
+    "trait": "Exploit Writer"
+  },
+  "227": {
+    "tokenId": 227,
+    "cid": "QmUpLi5sR5FpsNomT3CWcnzJBN4rM1RSMacMBHqfQo1Adr",
+    "rarity": "common",
+    "trait": "Forensic Analyst"
+  },
+  "228": {
+    "tokenId": 228,
+    "cid": "QmUwbeSzU8Dz6dXfyiEex5e7h8YgEe2hHkvNmXRjBa8j5o",
+    "rarity": "common",
+    "trait": "Dark Web Scout"
+  },
+  "229": {
+    "tokenId": 229,
+    "cid": "QmTevcD2WvWtEoorHVchRy3sEXhhaZuNFvNHc7CDKVGZ6r",
+    "rarity": "uncommon",
+    "trait": "Payload Crafter"
+  },
+  "230": {
+    "tokenId": 230,
+    "cid": "Qmb5Meb88UJbWC9AU4xnfzqR4nz6zZhBEsRq2gHxj7nkyb",
+    "rarity": "rare",
+    "trait": "APT Operator"
+  },
+  "231": {
+    "tokenId": 231,
+    "cid": "Qmdxyf36XuGDTMSvTeT8pxoJar8hApBsmNWJuwrtZqfrcA",
+    "rarity": "uncommon",
+    "trait": "Reverse Engineer"
+  },
+  "232": {
+    "tokenId": 232,
+    "cid": "QmaQmGm96SNwmmjk5m4a3tDQvXcApbM9AjENU4GLRUmjeH",
+    "rarity": "common",
+    "trait": "Fuzzer"
+  },
+  "233": {
+    "tokenId": 233,
+    "cid": "QmeNWhWiA6Webkw8RxdwvYmEzekch6rjcY4iFp6z2JJFqh",
+    "rarity": "epic",
+    "trait": "Shellcoder"
+  },
+  "234": {
+    "tokenId": 234,
+    "cid": "QmTah6kqLZ7xPywmy65pWv6gjRP9FRcpJnAVNiZseKZxUZ",
+    "rarity": "uncommon",
+    "trait": "Network Sniffer"
+  },
+  "235": {
+    "tokenId": 235,
+    "cid": "QmVF4jhv9WtSxm4WW218vsnGbLfpwxwKkxyHgNv6EudQ9H",
+    "rarity": "uncommon",
+    "trait": "Steganographer"
+  },
+  "236": {
+    "tokenId": 236,
+    "cid": "Qma5er2sV9NtrZ5JGLEuttePfuExDQ1qDUQiWZBsq4yNew",
+    "rarity": "common",
+    "trait": "DeFi Hacker"
+  },
+  "237": {
+    "tokenId": 237,
+    "cid": "QmTifMwMrQiQsvMcE6FrwfuGCvYWrMjYSvQysU4P6F4D1L",
+    "rarity": "common",
+    "trait": "Flash Loan Wizard"
+  },
+  "238": {
+    "tokenId": 238,
+    "cid": "QmNyFYR6LCzPmPQKNtoAqvsTqhMQ9mzgYgkVV9Eczqv9Te",
+    "rarity": "epic",
+    "trait": "MEV Hunter"
+  },
+  "239": {
+    "tokenId": 239,
+    "cid": "QmVhc1oE7XVCxntk7P2rWNg3yQ5psaqX3G8KiZG1cxxowc",
+    "rarity": "rare",
+    "trait": "Smart Contract Auditor"
+  },
+  "240": {
+    "tokenId": 240,
+    "cid": "QmZ2gBeJ8oqMDkn3V4mWCLVbLuQjps3VKWzmyYaTXVfeHV",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "241": {
+    "tokenId": 241,
+    "cid": "QmXPXEHnbBdQh9tZT9FPFR8RxA7K5pYt9NsZ96GCxRBDq2",
+    "rarity": "uncommon",
+    "trait": "Rug Detector"
+  },
+  "242": {
+    "tokenId": 242,
+    "cid": "QmYzBHxWwRDmuErbXKhuixceebrUn8kATwsh8VxktktnYi",
+    "rarity": "common",
+    "trait": "Whale Watcher"
+  },
+  "243": {
+    "tokenId": 243,
+    "cid": "QmbQUEAZASbUTu9DufJzvxyAsXKbdt4hYLsRSZZycXvXD9",
+    "rarity": "uncommon",
+    "trait": "Liquidity Sniper"
+  },
+  "244": {
+    "tokenId": 244,
+    "cid": "Qmce2AqhbLvjaQwSZLj3FpEbBs5Jxvq4kKxmpqaq21HSuh",
+    "rarity": "legendary",
+    "trait": "On-Chain Analyst"
+  },
+  "245": {
+    "tokenId": 245,
+    "cid": "QmfN7BeVxKBpodsXFaw9sHXhRy9hxG4CDyqWEkqQgF4V4F",
+    "rarity": "epic",
+    "trait": "Governance Voter"
+  },
+  "246": {
+    "tokenId": 246,
+    "cid": "QmaREd5npvAFTp6zpStaRQHKAwdYaVouHNMsrGkiMG9ryy",
+    "rarity": "common",
+    "trait": "Yield Optimizer"
+  },
+  "247": {
+    "tokenId": 247,
+    "cid": "QmTGZ4uJErs6K7iJJQQQtbohvRfXMJY6XyNq2vHgAVLdFv",
+    "rarity": "common",
+    "trait": "Cross-Chain Ranger"
+  },
+  "248": {
+    "tokenId": 248,
+    "cid": "QmbK5iwmR3HZ5LMryogN1NgaaNAPoqdHKURbHDyJRMWTr5",
+    "rarity": "rare",
+    "trait": "Blockchain Forensic"
+  },
+  "249": {
+    "tokenId": 249,
+    "cid": "QmWC3Xh5gBNVuNK4Xjirn1k3m1rbwQpLQXGwXr2LLS6QH6",
+    "rarity": "common",
+    "trait": "Crypto OSINT"
+  },
+  "250": {
+    "tokenId": 250,
+    "cid": "QmahdA9bdEQPK6PnLoQ1MDi33bST4dFkpydmYQkPSHhXPF",
+    "rarity": "common",
+    "trait": "Web3 Red Team"
+  },
+  "251": {
+    "tokenId": 251,
+    "cid": "QmexoJXvNAaSk346wmw3cFWXz3yRZcBHnGQUNUzmf4UN87",
+    "rarity": "uncommon",
+    "trait": "DAO Infiltrator"
+  },
+  "252": {
+    "tokenId": 252,
+    "cid": "QmRhRrnYunr6TRsf25Scc3KH9Kkwpt1BABgnLhiPSKFnHH",
+    "rarity": "common",
+    "trait": "Token Engineer"
+  },
+  "253": {
+    "tokenId": 253,
+    "cid": "QmTRLMGmrHJRf6krynpUn7xGzYs85ZYNVrzZoHSX7sZG9G",
+    "rarity": "common",
+    "trait": "ZK Prover"
+  },
+  "254": {
+    "tokenId": 254,
+    "cid": "QmPKm3drRjSagQdZeMRCcLgAr6XvQ4cVyxTne9F76vMFDF",
+    "rarity": "rare",
+    "trait": "Sandwich Botter"
+  },
+  "255": {
+    "tokenId": 255,
+    "cid": "QmWbxq41VUcpodqk7VK18DiFwiqaLDWVFhXptaZDcXTcY7",
+    "rarity": "uncommon",
+    "trait": "Mempool Watcher"
+  },
+  "256": {
+    "tokenId": 256,
+    "cid": "QmdWphccFzkzzmHHdZ3KZj261P1oiJQrbBY1q7rtJAEMPg",
+    "rarity": "uncommon",
+    "trait": "Social Engineer"
+  },
+  "257": {
+    "tokenId": 257,
+    "cid": "QmUt45ZKkN7B4Kfr6AYMWJbVmwvnU67ZH3TaQqowPxkzx2",
+    "rarity": "uncommon",
+    "trait": "Malware Dev"
+  },
+  "258": {
+    "tokenId": 258,
+    "cid": "QmRxdRRQhxcuoic4DAuQZypnhCQqnpZwUHvjzW6XJdw5z5",
+    "rarity": "uncommon",
+    "trait": "Exploit Writer"
+  },
+  "259": {
+    "tokenId": 259,
+    "cid": "QmTUz3fGJc9GgNwkJqeUSdomAWmMx1JfRTLjDns6qt6RXn",
+    "rarity": "epic",
+    "trait": "Forensic Analyst"
+  },
+  "260": {
+    "tokenId": 260,
+    "cid": "QmdaoLN7CdrpSMD5GA3MKkpDR2Hkd4wwqtuMG1zZztfbBm",
+    "rarity": "epic",
+    "trait": "Dark Web Scout"
+  },
+  "261": {
+    "tokenId": 261,
+    "cid": "QmWPJXwqgqXox6QWqNaSe8QKCyuGm81RcA1mvLfirWQEq4",
+    "rarity": "common",
+    "trait": "Payload Crafter"
+  },
+  "262": {
+    "tokenId": 262,
+    "cid": "Qmc8GCJWQf3LSfLG499w9P2T6UjJXc7BZDdkzm34fA5ML3",
+    "rarity": "common",
+    "trait": "APT Operator"
+  },
+  "263": {
+    "tokenId": 263,
+    "cid": "QmcPR5cr4LTuidLdciJ4pxHNEJrZUoPtJm5H7GJRTT7fRS",
+    "rarity": "common",
+    "trait": "Reverse Engineer"
+  },
+  "264": {
+    "tokenId": 264,
+    "cid": "QmNM3L3DjJAMerbZ5vZNX21EJLjA6Pi8U8YUA4ggqbTcDf",
+    "rarity": "common",
+    "trait": "Fuzzer"
+  },
+  "265": {
+    "tokenId": 265,
+    "cid": "QmXdkM5PbBgaDGMyuw272SwG1rPFPVfJcbkEviMe1UAtLr",
+    "rarity": "common",
+    "trait": "Shellcoder"
+  },
+  "266": {
+    "tokenId": 266,
+    "cid": "QmVom4bmS2KuUXT2cM5m2bz9edfLZkDboSKCbyoCeHJNcS",
+    "rarity": "common",
+    "trait": "Network Sniffer"
+  },
+  "267": {
+    "tokenId": 267,
+    "cid": "QmVGuyWMy2mKqUXhahotcLVwSCakoU4WesANjot8DAVxxo",
+    "rarity": "epic",
+    "trait": "Steganographer"
+  },
+  "268": {
+    "tokenId": 268,
+    "cid": "QmeU6g9uacjwKjQacHv9ejCmccafw1BxmqbmzCLRDnfoqP",
+    "rarity": "epic",
+    "trait": "DeFi Hacker"
+  },
+  "269": {
+    "tokenId": 269,
+    "cid": "QmfXkwmVRL5ZVQ7dv2BLuLrpDX2UJ15u5w55nqFJCyDJAC",
+    "rarity": "common",
+    "trait": "Flash Loan Wizard"
+  },
+  "270": {
+    "tokenId": 270,
+    "cid": "QmT5R1y2qZ3V5HcFjcXTXS1n35GwRbihiJXqNZa9xoVZGG",
+    "rarity": "rare",
+    "trait": "MEV Hunter"
+  },
+  "271": {
+    "tokenId": 271,
+    "cid": "QmS3EscvPrtrZrrbmSJqVdSVWi7a4G1P1kin1VqRFkNmJB",
+    "rarity": "common",
+    "trait": "Smart Contract Auditor"
+  },
+  "272": {
+    "tokenId": 272,
+    "cid": "QmeZQ5FBo46wYRtHqA3TbQmcTf4fyNRseY58kunpxgqCsT",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "273": {
+    "tokenId": 273,
+    "cid": "QmYoWzPu8LLKLYdURQmPz2apoRKhUxcXN2pzqYiwGo9Vd9",
+    "rarity": "rare",
+    "trait": "Rug Detector"
+  },
+  "274": {
+    "tokenId": 274,
+    "cid": "QmVZXRtJbm7PtKevkprHxdJLDwwKc9w4dYQfAwZJsqcgeT",
+    "rarity": "uncommon",
+    "trait": "Whale Watcher"
+  },
+  "275": {
+    "tokenId": 275,
+    "cid": "QmcHD4q3ima5z42F4Sges24ST6qkJEA1wu9gFN85Hwe1Tq",
+    "rarity": "common",
+    "trait": "Liquidity Sniper"
+  },
+  "276": {
+    "tokenId": 276,
+    "cid": "QmUVixeiiirZZCanHs8wBgvy2kq4xoJqMGfyAx1QERJLxC",
+    "rarity": "common",
+    "trait": "On-Chain Analyst"
+  },
+  "277": {
+    "tokenId": 277,
+    "cid": "QmcUjTMBMywHjVjUAbKHDkZq2E7wyHCzAyCHxUGbcX2j5U",
+    "rarity": "epic",
+    "trait": "Governance Voter"
+  },
+  "278": {
+    "tokenId": 278,
+    "cid": "Qman1cU17N9q4fkfmDUmJSdofxuDKpZFWrNfXPyCmxHbUd",
+    "rarity": "common",
+    "trait": "Yield Optimizer"
+  },
+  "279": {
+    "tokenId": 279,
+    "cid": "QmPvcpYjWQpQxyuDXczMQzm5hRQTKT6dmixqfUKByvWBzr",
+    "rarity": "uncommon",
+    "trait": "Cross-Chain Ranger"
+  },
+  "280": {
+    "tokenId": 280,
+    "cid": "QmZc9o3oevHFehKSKWUWEDW3q5vrjeWQ9qL8ADnRkJxCZX",
+    "rarity": "common",
+    "trait": "Blockchain Forensic"
+  },
+  "281": {
+    "tokenId": 281,
+    "cid": "QmQ9K1jbdLuPr6Rm5uSEpKe3ysgGqfqVyVFrcTbooiByJt",
+    "rarity": "common",
+    "trait": "Crypto OSINT"
+  },
+  "282": {
+    "tokenId": 282,
+    "cid": "QmbXR9V9RqWBTVfuaDCKztSQPXXdTz4q6bNU8hsWEWaLnQ",
+    "rarity": "legendary",
+    "trait": "Web3 Red Team"
+  },
+  "283": {
+    "tokenId": 283,
+    "cid": "Qma3eLJWkuxKMDL75ogdmdF9ic5ZpKipxepNMETdfMcDyh",
+    "rarity": "common",
+    "trait": "DAO Infiltrator"
+  },
+  "284": {
+    "tokenId": 284,
+    "cid": "QmbWnfNh9J1ZWoducr6K3yBBpgg9EWpiFLvEWUkfd6ZaRp",
+    "rarity": "uncommon",
+    "trait": "Token Engineer"
+  },
+  "285": {
+    "tokenId": 285,
+    "cid": "QmZUk7ZFGTYPSVZYt2n8tDQu9UQXTy3EBkDe1QeprU3xeM",
+    "rarity": "legendary",
+    "trait": "ZK Prover"
+  },
+  "286": {
+    "tokenId": 286,
+    "cid": "QmU54oLfx1nz6tom43HbC4J8dgik92P7pT3GBzdUTyQrEq",
+    "rarity": "common",
+    "trait": "Sandwich Botter"
+  },
+  "287": {
+    "tokenId": 287,
+    "cid": "QmQXeUNd5dY9Pv1FTEWAaxvaTbmoVYzVzBJEUywKb6pwqC",
+    "rarity": "common",
+    "trait": "Mempool Watcher"
+  },
+  "288": {
+    "tokenId": 288,
+    "cid": "QmbhK5BB9UEr8xePeSVDtxeqUsTd6XtxHVHeGz5iWYAx74",
+    "rarity": "common",
+    "trait": "Social Engineer"
+  },
+  "289": {
+    "tokenId": 289,
+    "cid": "QmcJCA3KNAZnktnexnTvo4LZK4XVtuiAPkuAxbYcKkLWm2",
+    "rarity": "uncommon",
+    "trait": "Malware Dev"
+  },
+  "290": {
+    "tokenId": 290,
+    "cid": "Qmbk4am6eCAuVkovsSbvA4nXTz1VBoFCwkYs3CTNVXtTzk",
+    "rarity": "uncommon",
+    "trait": "Exploit Writer"
+  },
+  "291": {
+    "tokenId": 291,
+    "cid": "QmNjZf6QngXYouA7JFy3hdrrKSiLajNgrUULoaTRkj4mKj",
+    "rarity": "common",
+    "trait": "Forensic Analyst"
+  },
+  "292": {
+    "tokenId": 292,
+    "cid": "QmWJymftk3p5jpoaGQnXg6XT4Kbw6stcFnGjCYphDMEQyC",
+    "rarity": "common",
+    "trait": "Dark Web Scout"
+  },
+  "293": {
+    "tokenId": 293,
+    "cid": "QmZxFU6gKjoaKbVnSQMWhz5MWBY1ujXyconaz8ZGkPehpC",
+    "rarity": "common",
+    "trait": "Payload Crafter"
+  },
+  "294": {
+    "tokenId": 294,
+    "cid": "QmWPAgZ4sfABXwx97DZY4wiP9jgLT5NaQ5Yu8TQJ3xmUGC",
+    "rarity": "uncommon",
+    "trait": "APT Operator"
+  },
+  "295": {
+    "tokenId": 295,
+    "cid": "QmXPJQ9YGjhC6N2H1MMf6WbPi3jtWt3KJeLJTuc4VgDSAw",
+    "rarity": "common",
+    "trait": "Reverse Engineer"
+  },
+  "296": {
+    "tokenId": 296,
+    "cid": "Qmb36yjbatMwN8cR5pq6M7YAAAvcWrc5pspjyW4DWKuCax",
+    "rarity": "rare",
+    "trait": "Fuzzer"
+  },
+  "297": {
+    "tokenId": 297,
+    "cid": "QmapMYpQCxhDCiRgR7pMe8FUZH5jNP7VJW6iu5yHjD9UyV",
+    "rarity": "common",
+    "trait": "Shellcoder"
+  },
+  "298": {
+    "tokenId": 298,
+    "cid": "QmQ1MEPvtuub5XEa3PYb9RAjADpxF1zYDoTQAGpQafhWYe",
+    "rarity": "epic",
+    "trait": "Network Sniffer"
+  },
+  "299": {
+    "tokenId": 299,
+    "cid": "QmfAB7DWMSKwFaDtHhxtP6Q5cSvsAjsoLwVq2XTPyV1Bfj",
+    "rarity": "rare",
+    "trait": "Steganographer"
+  },
+  "300": {
+    "tokenId": 300,
+    "cid": "QmdYjwccv2qvUxj3WtBTB4LiAnTKvBee16cSVE6YyYkdp4",
+    "rarity": "rare",
+    "trait": "DeFi Hacker"
+  },
+  "301": {
+    "tokenId": 301,
+    "cid": "QmfH5pK4u1Ahh8EV2ShwtKP8HbNsBHgzjeDsRgQUP1M1DH",
+    "rarity": "legendary",
+    "trait": "Flash Loan Wizard"
+  },
+  "302": {
+    "tokenId": 302,
+    "cid": "QmWxZGjCF26F5VSuk2xq8fLf5o4QU62kfcB5BDPtEa13Lg",
+    "rarity": "common",
+    "trait": "MEV Hunter"
+  },
+  "303": {
+    "tokenId": 303,
+    "cid": "QmRCkcjBdJqUxZAKboM2xTKhsURYorodCRD9JFfJT31Ft9",
+    "rarity": "rare",
+    "trait": "Smart Contract Auditor"
+  },
+  "304": {
+    "tokenId": 304,
+    "cid": "QmYDCab6BRrZxQZ56Qm5gT3XC6Gq1U8Zy5RNFZJfW2Rqu6",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "305": {
+    "tokenId": 305,
+    "cid": "Qmc3iB3ziL45F6SAtYoH5ZjEE3PKfrWQswBVqTCsbC35Ne",
+    "rarity": "uncommon",
+    "trait": "Rug Detector"
+  },
+  "306": {
+    "tokenId": 306,
+    "cid": "QmWZoHqpEW7yiT6m6QMVh37X2qWLnemZ1faVuH9kRvpCg1",
+    "rarity": "common",
+    "trait": "Whale Watcher"
+  },
+  "307": {
+    "tokenId": 307,
+    "cid": "QmP9FzAA7Rqg59e4JEQ8CXSK3jFxTPKouSRundBbxQR3ER",
+    "rarity": "common",
+    "trait": "Liquidity Sniper"
+  },
+  "308": {
+    "tokenId": 308,
+    "cid": "QmesiYF7yi6U85F6nc4HSDBCCEqJuLTE59fsWvAc258jM9",
+    "rarity": "uncommon",
+    "trait": "On-Chain Analyst"
+  },
+  "309": {
+    "tokenId": 309,
+    "cid": "QmRbRxmUDxcrWsKDktNKaPTfLJPxCwPZrdU1NQFMdf13Tb",
+    "rarity": "common",
+    "trait": "Governance Voter"
+  },
+  "310": {
+    "tokenId": 310,
+    "cid": "QmfXR81wEcy5NMammkGkQVKfxKKF893iAeknSyXcMseWeH",
+    "rarity": "rare",
+    "trait": "Yield Optimizer"
+  },
+  "311": {
+    "tokenId": 311,
+    "cid": "Qmcmg5SKDvGLdtCaGXifnsGd1DNjZjcPRN9ePrJf3frATY",
+    "rarity": "common",
+    "trait": "Cross-Chain Ranger"
+  },
+  "312": {
+    "tokenId": 312,
+    "cid": "QmSiF66U5cWko2pMEKD8YV1R3Lw9bbE75qCGYtdvhs6aAH",
+    "rarity": "rare",
+    "trait": "Blockchain Forensic"
+  },
+  "313": {
+    "tokenId": 313,
+    "cid": "QmZLRHqZP6j9DzjfPcbYieDGbGnqtS9JRZ1UbWqUC9PUn3",
+    "rarity": "common",
+    "trait": "Crypto OSINT"
+  },
+  "314": {
+    "tokenId": 314,
+    "cid": "QmQEueA1hineGwy3mBf4bY8GpGbW9PJhgRTr3K96cBzD65",
+    "rarity": "common",
+    "trait": "Web3 Red Team"
+  },
+  "315": {
+    "tokenId": 315,
+    "cid": "QmU98kZJGtLvnzCBepcHfwpZpzmXERZgWzubqU1NHg8jdi",
+    "rarity": "rare",
+    "trait": "DAO Infiltrator"
+  },
+  "316": {
+    "tokenId": 316,
+    "cid": "QmcSwygbi7dAJezCkPAFpHwbLY4RpabmRjZaKS5wdJGsvo",
+    "rarity": "common",
+    "trait": "Token Engineer"
+  },
+  "317": {
+    "tokenId": 317,
+    "cid": "QmRsDaBpWNfz5UCi9PccouBGjfp8TeejCs7MLEYNA58WoF",
+    "rarity": "uncommon",
+    "trait": "ZK Prover"
+  },
+  "318": {
+    "tokenId": 318,
+    "cid": "QmUH7J997tiim2tqc4NbAuQTgALUPjyMz5w1WMv2TbraFx",
+    "rarity": "common",
+    "trait": "Sandwich Botter"
+  },
+  "319": {
+    "tokenId": 319,
+    "cid": "QmQYvcrPQdV9fobwHBXgt47xCHz8t7kyrbvSUgVDjfCYuW",
+    "rarity": "epic",
+    "trait": "Mempool Watcher"
+  },
+  "320": {
+    "tokenId": 320,
+    "cid": "QmeonUqydbBQEhFFWi8VJTe5yyFKKjWb2TwbBBL56pQmTa",
+    "rarity": "common",
+    "trait": "Social Engineer"
+  },
+  "321": {
+    "tokenId": 321,
+    "cid": "QmPo8yZu5zwicy1NzEdX5kvd62EGWMUBiWbLpb7iademyd",
+    "rarity": "uncommon",
+    "trait": "Malware Dev"
+  },
+  "322": {
+    "tokenId": 322,
+    "cid": "QmbdB63dUfJ7bsqkyzwC4ryPQc6WUPz21tC3Q2uJXef5io",
+    "rarity": "uncommon",
+    "trait": "Exploit Writer"
+  },
+  "323": {
+    "tokenId": 323,
+    "cid": "QmWtQre2JKFhfCeNoZUtAW8zNVH7qWDXmSD3Sh61B8PpZD",
+    "rarity": "common",
+    "trait": "Forensic Analyst"
+  },
+  "324": {
+    "tokenId": 324,
+    "cid": "QmenUNA3pn3ECqbPw3dVySu21AW94fBmBkSkAHdJP7dGqX",
+    "rarity": "common",
+    "trait": "Dark Web Scout"
+  },
+  "325": {
+    "tokenId": 325,
+    "cid": "QmPjDGfX17cJ1Yqtj8UfxxAKPbRKPZCiAxSyysWPk3ZbxT",
+    "rarity": "uncommon",
+    "trait": "Payload Crafter"
+  },
+  "326": {
+    "tokenId": 326,
+    "cid": "QmULJk4PNQcrvKRKVDq3RQZfDowrhVFuzrRFfRxxKHVSKy",
+    "rarity": "common",
+    "trait": "APT Operator"
+  },
+  "327": {
+    "tokenId": 327,
+    "cid": "QmeyXPxRSCskzy4v1Y1oUrodS96zvfi6oj13LcZUi7tLXq",
+    "rarity": "common",
+    "trait": "Reverse Engineer"
+  },
+  "328": {
+    "tokenId": 328,
+    "cid": "QmXenTqFSFtmVT5LgxdjBef8zk87VaphZ5dzteYC6DSP1z",
+    "rarity": "uncommon",
+    "trait": "Fuzzer"
+  },
+  "329": {
+    "tokenId": 329,
+    "cid": "QmWbk8NzTL4gXu3g42Kv4fWpptxGNe9v18ywN27cWnwZkf",
+    "rarity": "uncommon",
+    "trait": "Shellcoder"
+  },
+  "330": {
+    "tokenId": 330,
+    "cid": "QmTPHViW974ry2oUN8FCJ9KW2Ds4zM6vxBo1PJomnKyYMP",
+    "rarity": "epic",
+    "trait": "Network Sniffer"
+  },
+  "331": {
+    "tokenId": 331,
+    "cid": "QmVsRTpVbcr9YiNhSL7EGwwEDcxaRznW9aPNWocqga6xSY",
+    "rarity": "common",
+    "trait": "Steganographer"
+  },
+  "332": {
+    "tokenId": 332,
+    "cid": "QmZMjstQmjhh9iNFq3Z27F4mEAtGkLBo1v9CHByWA289bZ",
+    "rarity": "common",
+    "trait": "DeFi Hacker"
+  },
+  "333": {
+    "tokenId": 333,
+    "cid": "QmQw9Y2L7PKaqk72jEkSBsQtES532vk9dbV7x2n2NoMfdo",
+    "rarity": "common",
+    "trait": "Flash Loan Wizard"
+  },
+  "334": {
+    "tokenId": 334,
+    "cid": "QmeposPa7Vwr4gk75X6aK2xwMehi4y7FcRQt4JAHpfXprr",
+    "rarity": "uncommon",
+    "trait": "MEV Hunter"
+  },
+  "335": {
+    "tokenId": 335,
+    "cid": "QmYF3forrN7cjkhNxCCEPyFBHtFD4teurpMPhb7SRGxY1D",
+    "rarity": "rare",
+    "trait": "Smart Contract Auditor"
+  },
+  "336": {
+    "tokenId": 336,
+    "cid": "QmT1uahUpnm8hgGfuoUuGcTjpwyG2UbWmCamv68ENAWm4q",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "337": {
+    "tokenId": 337,
+    "cid": "QmXifSj8MaQpp2NYpmuLLQFWeeyde9d9jGNbcpi3dK32CF",
+    "rarity": "epic",
+    "trait": "Rug Detector"
+  },
+  "338": {
+    "tokenId": 338,
+    "cid": "QmP1BFYPg6oYZXZEau4NkhKWaKjuNygqYsfwGi6msH5XWx",
+    "rarity": "rare",
+    "trait": "Whale Watcher"
+  },
+  "339": {
+    "tokenId": 339,
+    "cid": "QmVKxGGCAhhYFF1NGaFP1NDDTGk4UPdc4X3gavJfGdhRh3",
+    "rarity": "common",
+    "trait": "Liquidity Sniper"
+  },
+  "340": {
+    "tokenId": 340,
+    "cid": "QmNZrXWXtKCgjRqt9EHkN3iaCjSHLNwcZ76dbXq1dbrHUp",
+    "rarity": "common",
+    "trait": "On-Chain Analyst"
+  },
+  "341": {
+    "tokenId": 341,
+    "cid": "QmSL44aA5PF1LkxN1zA7UP63AojAGVbWbRY1f4cpwESQr2",
+    "rarity": "uncommon",
+    "trait": "Governance Voter"
+  },
+  "342": {
+    "tokenId": 342,
+    "cid": "QmXg1VJY62f3u2n8YBKV6pJAED9NM6xGaZ7qxRj5JsLBvt",
+    "rarity": "common",
+    "trait": "Yield Optimizer"
+  },
+  "343": {
+    "tokenId": 343,
+    "cid": "QmTpDk6LtJ531JTCffeRrkADFc4SnghC4Ybn2LYvGv8FuF",
+    "rarity": "common",
+    "trait": "Cross-Chain Ranger"
+  },
+  "344": {
+    "tokenId": 344,
+    "cid": "QmbN3839KiYfpML3hs2fV3Gx2P8qLdR6TMWJH4ZNW7TH51",
+    "rarity": "epic",
+    "trait": "Blockchain Forensic"
+  },
+  "345": {
+    "tokenId": 345,
+    "cid": "QmbMrryMemGC6VVSDh5iSBkixjDb2VkjBeeYHjBdRT5AJW",
+    "rarity": "uncommon",
+    "trait": "Crypto OSINT"
+  },
+  "346": {
+    "tokenId": 346,
+    "cid": "QmSqS25h21PnkaySU5hKJtRcV4X9FgPRzKTfZgUpEioaRb",
+    "rarity": "common",
+    "trait": "Web3 Red Team"
+  },
+  "347": {
+    "tokenId": 347,
+    "cid": "QmTW8b52eKFC7EovQ1pmg7cyWEwXEfU6QdkhXh3yjtr3QR",
+    "rarity": "rare",
+    "trait": "DAO Infiltrator"
+  },
+  "348": {
+    "tokenId": 348,
+    "cid": "QmR6CB3tBkxEtGnXWp9UZqFg79YwgtLUY9DRqyCszLDtZ4",
+    "rarity": "legendary",
+    "trait": "Token Engineer"
+  },
+  "349": {
+    "tokenId": 349,
+    "cid": "QmZ1Uv3ahfrp2zssDLHHXwqy5CHkSU1URD2wNeho3GyS6P",
+    "rarity": "uncommon",
+    "trait": "ZK Prover"
+  },
+  "350": {
+    "tokenId": 350,
+    "cid": "QmcoS2WGjNfTiX6Uo21Anzp61ZSmSQyBL1LzwuxpWMF6Vs",
+    "rarity": "uncommon",
+    "trait": "Sandwich Botter"
+  },
+  "351": {
+    "tokenId": 351,
+    "cid": "QmNuCbvZKWgWNsbEMnwqeA7ATdqbhtkCX4nvzjM4DagZw3",
+    "rarity": "legendary",
+    "trait": "Mempool Watcher"
+  },
+  "352": {
+    "tokenId": 352,
+    "cid": "QmXF5J9HveChruQQ1DDyC3VvW8RPomQpzVudbN6wzAU38u",
+    "rarity": "rare",
+    "trait": "Social Engineer"
+  },
+  "353": {
+    "tokenId": 353,
+    "cid": "QmTHvmbyxd3mA2YVtLoKbGK6r9vp15jSvjoYJJ3JgJsDUw",
+    "rarity": "common",
+    "trait": "Malware Dev"
+  },
+  "354": {
+    "tokenId": 354,
+    "cid": "QmZiNMqF6bo6vDq5bDbCSsVDD8NHM78NNwNaE5EAh5JLXp",
+    "rarity": "common",
+    "trait": "Exploit Writer"
+  },
+  "355": {
+    "tokenId": 355,
+    "cid": "QmdH1poKCVWdobDxLcpJ5kS7jTEPQN8Cjkk8nMPPc3Ekvo",
+    "rarity": "uncommon",
+    "trait": "Forensic Analyst"
+  },
+  "356": {
+    "tokenId": 356,
+    "cid": "QmRMPggVzwZhZ2SMyUEHdRddjoCYzezyo3EiJGQJrL3dDJ",
+    "rarity": "common",
+    "trait": "Dark Web Scout"
+  },
+  "357": {
+    "tokenId": 357,
+    "cid": "QmQaJ2crWvsNaAtKuxgvgoKVAh5Krrr586eBBHxmWoXzsV",
+    "rarity": "uncommon",
+    "trait": "Payload Crafter"
+  },
+  "358": {
+    "tokenId": 358,
+    "cid": "QmVdwhA2M2ZdeNfeYAxchLBoFCo5KPR1RAZX7tkRsmhi7H",
+    "rarity": "common",
+    "trait": "APT Operator"
+  },
+  "359": {
+    "tokenId": 359,
+    "cid": "Qmb1DMxJn17UqsZqzWSBabMjCJ6XwShN7BrE7tHfkNoUVF",
+    "rarity": "common",
+    "trait": "Reverse Engineer"
+  },
+  "360": {
+    "tokenId": 360,
+    "cid": "Qmf6MEAJFWXHD19vfe92UaPKLszg51gVkZnKNTWDSWxwVs",
+    "rarity": "uncommon",
+    "trait": "Fuzzer"
+  },
+  "361": {
+    "tokenId": 361,
+    "cid": "QmW6uAaYRY4bVHpRmqntCCaZrgbYvYn6nEysSBgZwGcrf7",
+    "rarity": "common",
+    "trait": "Shellcoder"
+  },
+  "362": {
+    "tokenId": 362,
+    "cid": "QmakvbBGRd23RGaBPaT32rSYqMzpMRrWLKb9MaKeiPWFF4",
+    "rarity": "common",
+    "trait": "Network Sniffer"
+  },
+  "363": {
+    "tokenId": 363,
+    "cid": "QmWrrFtYrNtcye8gh1xdyHPTKyRKfEnVonJ1XXmh1DR6Mq",
+    "rarity": "epic",
+    "trait": "Steganographer"
+  },
+  "364": {
+    "tokenId": 364,
+    "cid": "QmUEJn1E8r521DMgcGDjYXhboWWQ3dPyaFzyThoXkvsBBc",
+    "rarity": "common",
+    "trait": "DeFi Hacker"
+  },
+  "365": {
+    "tokenId": 365,
+    "cid": "QmVmzJvXKvKBCoCTEv16YoqTxhjYH8BUtARg5Hg2DVgpNX",
+    "rarity": "rare",
+    "trait": "Flash Loan Wizard"
+  },
+  "366": {
+    "tokenId": 366,
+    "cid": "QmU4aSdeLXXfzNTk4MxAuE4CwT5x24JGLCFcPX1ZmkDJG5",
+    "rarity": "common",
+    "trait": "MEV Hunter"
+  },
+  "367": {
+    "tokenId": 367,
+    "cid": "QmdPkkH4b2CkPK76grVxXrj3qyipBa1VtzG8o8BzJAMEcP",
+    "rarity": "rare",
+    "trait": "Smart Contract Auditor"
+  },
+  "368": {
+    "tokenId": 368,
+    "cid": "QmfWBUGpXoJARvUD7jqWU1NASKVejHyofQs7yZxoWoT96c",
+    "rarity": "rare",
+    "trait": "Bridge Exploiter"
+  },
+  "369": {
+    "tokenId": 369,
+    "cid": "QmUbBPorjVT4mYzBW235BgdeyFd9KN9edxkkT1fBjZZtYh",
+    "rarity": "rare",
+    "trait": "Rug Detector"
+  },
+  "370": {
+    "tokenId": 370,
+    "cid": "QmaiyaquUbn9hm7BYKDiR4kHwJXB5NjDj9Bcz2PFScFme7",
+    "rarity": "uncommon",
+    "trait": "Whale Watcher"
+  },
+  "371": {
+    "tokenId": 371,
+    "cid": "QmY1kbe2c3Bhb3c3KtGUMcoEUjfSAJLbVvZxxFvgdnNGdN",
+    "rarity": "legendary",
+    "trait": "Liquidity Sniper"
+  },
+  "372": {
+    "tokenId": 372,
+    "cid": "QmP55BnqHchy6aMGwFSaLjeWKPiAEW3NmYVGkPQ4Arkg7F",
+    "rarity": "common",
+    "trait": "On-Chain Analyst"
+  },
+  "373": {
+    "tokenId": 373,
+    "cid": "Qma8NiWsxKSZNVPi1wZAJHa7hrHWZ3q7e371dsiGnVHyri",
+    "rarity": "uncommon",
+    "trait": "Governance Voter"
+  },
+  "374": {
+    "tokenId": 374,
+    "cid": "QmQxnw4FEkoy8d3WAntHhhFYdRnTeEUkgrgenRnEXrM7LT",
+    "rarity": "rare",
+    "trait": "Yield Optimizer"
+  },
+  "375": {
+    "tokenId": 375,
+    "cid": "QmZhB2YuEMH1usGYtkXf2AWZaujvkZd9bNyyqvZGbn2wdQ",
+    "rarity": "common",
+    "trait": "Cross-Chain Ranger"
+  },
+  "376": {
+    "tokenId": 376,
+    "cid": "QmZpfGsLf8u3ktPhQmX8XTaXtk8CVZSFrmUNm4eSkkPPAq",
+    "rarity": "uncommon",
+    "trait": "Blockchain Forensic"
+  },
+  "377": {
+    "tokenId": 377,
+    "cid": "QmbYsJ8xrZhrdN81bnguDuGgeyA4aJFukRnQXpcqbn2u2x",
+    "rarity": "common",
+    "trait": "Crypto OSINT"
+  },
+  "378": {
+    "tokenId": 378,
+    "cid": "QmbikZCsL7oWkksPq1jRiD5Ri7HgszPLjCashCSAdmmMb3",
+    "rarity": "common",
+    "trait": "Web3 Red Team"
+  },
+  "379": {
+    "tokenId": 379,
+    "cid": "QmRRd4HbNn4CrspaF8cLFShkT6R1ZLFKyKzVP6v9CtcGhU",
+    "rarity": "common",
+    "trait": "DAO Infiltrator"
+  },
+  "380": {
+    "tokenId": 380,
+    "cid": "QmaFJmmGiX89c2VgxSavEeLR5JwMfR3cJjpcW5xfLQddUG",
+    "rarity": "uncommon",
+    "trait": "Token Engineer"
+  },
+  "381": {
+    "tokenId": 381,
+    "cid": "QmSjkJZGvjMQKCr7jt2aA4Q44vYjmCTfyG8rM2QU1P3Azq",
+    "rarity": "rare",
+    "trait": "ZK Prover"
+  },
+  "382": {
+    "tokenId": 382,
+    "cid": "QmV5WGxHTZSuJtoF76GobdzNhbeDyekj4rZYuwgC5meWwn",
+    "rarity": "rare",
+    "trait": "Sandwich Botter"
+  },
+  "383": {
+    "tokenId": 383,
+    "cid": "QmdhNEmWCowRuJz88tjJ8PNHovd7siYsDQDC9F8ScdmwA3",
+    "rarity": "common",
+    "trait": "Mempool Watcher"
+  },
+  "384": {
+    "tokenId": 384,
+    "cid": "QmXFT7Fpc91Vnym9du1PVr3umEAAnNEu6RHJ91kfSDJUXP",
+    "rarity": "uncommon",
+    "trait": "Social Engineer"
+  },
+  "385": {
+    "tokenId": 385,
+    "cid": "QmSGenmKbrt5HD8tyc4LCsQnBZbwjm8MAKeFXTNxG6LgeU",
+    "rarity": "common",
+    "trait": "Malware Dev"
+  },
+  "386": {
+    "tokenId": 386,
+    "cid": "QmdZ6CkWWW7v5g3wtxz3BWqPA9yj767fwX7XU59PwmEp8i",
+    "rarity": "common",
+    "trait": "Exploit Writer"
+  },
+  "387": {
+    "tokenId": 387,
+    "cid": "QmPer83TUSs5qQHTw9L91RsrK8gLAs4n1Aum5a3jJJJfbJ",
+    "rarity": "common",
+    "trait": "Forensic Analyst"
+  },
+  "388": {
+    "tokenId": 388,
+    "cid": "QmQdfpShjdwbyCPRAJSsn5EdwQJk2QodqNGw1wmVyGd75n",
+    "rarity": "uncommon",
+    "trait": "Dark Web Scout"
+  },
+  "389": {
+    "tokenId": 389,
+    "cid": "QmSedu7V9EJJuNDVVf2Hzw6ju9osmntURMS64pq3KK4YeJ",
+    "rarity": "common",
+    "trait": "Payload Crafter"
+  },
+  "390": {
+    "tokenId": 390,
+    "cid": "QmP3KVg8yd4BPG1KJ6qcx1xkTxVPk4KJCXzgZaxTm6LNLd",
+    "rarity": "uncommon",
+    "trait": "APT Operator"
+  },
+  "391": {
+    "tokenId": 391,
+    "cid": "QmRDurDyCC6HULz6BcR389Jjn2Mu44hEpkBR9JvjdubgAt",
+    "rarity": "uncommon",
+    "trait": "Reverse Engineer"
+  },
+  "392": {
+    "tokenId": 392,
+    "cid": "QmPmaSYvnQF23uLii4R8UW3anVDBJddEQaA9Mf2fiZ4TsX",
+    "rarity": "common",
+    "trait": "Fuzzer"
+  },
+  "393": {
+    "tokenId": 393,
+    "cid": "QmW7gjXwDrgzdQUUdpLvrb8FvxC3zyEb5gfFdSuARJbHEx",
+    "rarity": "rare",
+    "trait": "Shellcoder"
+  },
+  "394": {
+    "tokenId": 394,
+    "cid": "QmQUDEcCzo2hSf7gThY2ZxjiBhmBAhZaoDvhhYH2gwLCWu",
+    "rarity": "common",
+    "trait": "Network Sniffer"
+  },
+  "395": {
+    "tokenId": 395,
+    "cid": "QmXwkAn1HzzjDzqTDEbJ8ZWToTSPXzgsmPs6Z6dnNjf5Rt",
+    "rarity": "common",
+    "trait": "Steganographer"
+  },
+  "396": {
+    "tokenId": 396,
+    "cid": "QmavnPRNTc4mn9qjiA5EzAkiywrL843gin27E874Q4tL8T",
+    "rarity": "common",
+    "trait": "DeFi Hacker"
+  },
+  "397": {
+    "tokenId": 397,
+    "cid": "QmPcAguYyxSTfWmyQWS9vpUVAkaJ5DR4rzctZUeRd4BeHq",
+    "rarity": "common",
+    "trait": "Flash Loan Wizard"
+  },
+  "398": {
+    "tokenId": 398,
+    "cid": "QmbzqHZuXacJVtuFUqamEjG7oCPAs4KTFCZKp3gsXM6mhA",
+    "rarity": "common",
+    "trait": "MEV Hunter"
+  },
+  "399": {
+    "tokenId": 399,
+    "cid": "QmQgXxvx8hte56M54yq2hGq7WsKEx89RY3FUTguv7zxmmU",
+    "rarity": "uncommon",
+    "trait": "Smart Contract Auditor"
+  },
+  "400": {
+    "tokenId": 400,
+    "cid": "QmbGNseQVRSRcp1iV9AXWCn4Yofv48J6EGWARUuhB9iVaE",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "401": {
+    "tokenId": 401,
+    "cid": "QmVc8mab8eRJuJ8n1H4FuVdLdzhEYQQDGYAhmDgLBh3bVp",
+    "rarity": "common",
+    "trait": "Rug Detector"
+  },
+  "402": {
+    "tokenId": 402,
+    "cid": "QmYHDLD44657G92YBNHe9bjF915HoyNW8Jxvpq2USVNRFW",
+    "rarity": "common",
+    "trait": "Whale Watcher"
+  },
+  "403": {
+    "tokenId": 403,
+    "cid": "QmP7w4S55sdgEJXtUnXk63ZJqwzBMEZtEjjtH7LSrVpzNF",
+    "rarity": "uncommon",
+    "trait": "Liquidity Sniper"
+  },
+  "404": {
+    "tokenId": 404,
+    "cid": "QmRaSdu4vay2nSG1YuFYSLDpSgfHHsJS1zPua4a2xztQdX",
+    "rarity": "uncommon",
+    "trait": "On-Chain Analyst"
+  },
+  "405": {
+    "tokenId": 405,
+    "cid": "QmP8fQREz2jjGf3U3W5uGJDGsiWxCdhkdYFeScAjC7Xhik",
+    "rarity": "rare",
+    "trait": "Governance Voter"
+  },
+  "406": {
+    "tokenId": 406,
+    "cid": "QmUqiyPWLDUaw8ADMVQaQGZQjELi9Ee9hbQnz7servT7xt",
+    "rarity": "rare",
+    "trait": "Yield Optimizer"
+  },
+  "407": {
+    "tokenId": 407,
+    "cid": "QmPA6WwH9bi96bhd9reStwgTaRb2joentNWVpWYf3a356Y",
+    "rarity": "common",
+    "trait": "Cross-Chain Ranger"
+  },
+  "408": {
+    "tokenId": 408,
+    "cid": "QmXDRRMaH2VtfGUponiacLXNektaJodN8UAPHXyju484mZ",
+    "rarity": "epic",
+    "trait": "Blockchain Forensic"
+  },
+  "409": {
+    "tokenId": 409,
+    "cid": "QmUhoTGRQpvFvAHDbjNodYBKeExkY1P3zF1yBs1j9UrADS",
+    "rarity": "rare",
+    "trait": "Crypto OSINT"
+  },
+  "410": {
+    "tokenId": 410,
+    "cid": "QmdFXDTGQk8GArxrTtGUeptZCuLC483Ftm2NPKs5puJfwP",
+    "rarity": "common",
+    "trait": "Web3 Red Team"
+  },
+  "411": {
+    "tokenId": 411,
+    "cid": "Qmb98vxvhT6ygiJkrYWDrPAX9aLdJt1KZ9zo2HUF8huoNf",
+    "rarity": "common",
+    "trait": "DAO Infiltrator"
+  },
+  "412": {
+    "tokenId": 412,
+    "cid": "QmPod2SZmvX6UF9TUPBwAJ5sCujSqwJaGJSZ3VJVFsTiEA",
+    "rarity": "uncommon",
+    "trait": "Token Engineer"
+  },
+  "413": {
+    "tokenId": 413,
+    "cid": "QmP2AmjGN4BUWurfEsDc1Sg1GTzpD2eCNWyGauhvcJgsiK",
+    "rarity": "common",
+    "trait": "ZK Prover"
+  },
+  "414": {
+    "tokenId": 414,
+    "cid": "QmSQWRdGqTLXh9gaJaURidKvnnc1ZGKhuoLSuDQ3JxaBPR",
+    "rarity": "epic",
+    "trait": "Sandwich Botter"
+  },
+  "415": {
+    "tokenId": 415,
+    "cid": "QmbY7x2oH83ai93gZC6ii64yW15Zgfb2AbyhYcjHSuPUGv",
+    "rarity": "common",
+    "trait": "Mempool Watcher"
+  },
+  "416": {
+    "tokenId": 416,
+    "cid": "QmTXwDi3NNRGCaUDpw6ukNawbCZQKWi6a8mo1ppj7kMJ9s",
+    "rarity": "common",
+    "trait": "Social Engineer"
+  },
+  "417": {
+    "tokenId": 417,
+    "cid": "QmRnkGy5pxbnnkeDt6MJgxaPJXtvHzondFu6PSP3TEZ5uj",
+    "rarity": "common",
+    "trait": "Malware Dev"
+  },
+  "418": {
+    "tokenId": 418,
+    "cid": "QmetM2zJSj2ms9H9V6oH4BiBqGqSY6EjcU8ytXUZqLjfoP",
+    "rarity": "rare",
+    "trait": "Exploit Writer"
+  },
+  "419": {
+    "tokenId": 419,
+    "cid": "QmZvFzEWUY4YbNt5LAu2xbgSXUUByhepornfofYB3VuYDB",
+    "rarity": "uncommon",
+    "trait": "Forensic Analyst"
+  },
+  "420": {
+    "tokenId": 420,
+    "cid": "QmWQWZfV7rPBaKrvJsJsG9j5bWs1fTZKFC25gYcAmkDvrM",
+    "rarity": "uncommon",
+    "trait": "Dark Web Scout"
+  },
+  "421": {
+    "tokenId": 421,
+    "cid": "QmdVuEqYxdLoLv4Bw8deEVDtrHjSk6gePw7BfcGUGVvLzY",
+    "rarity": "uncommon",
+    "trait": "Payload Crafter"
+  },
+  "422": {
+    "tokenId": 422,
+    "cid": "QmRSADhyu7e1dFZPoLLBor55eZKQSCkt1QqNaiZs4i5gaT",
+    "rarity": "uncommon",
+    "trait": "APT Operator"
+  },
+  "423": {
+    "tokenId": 423,
+    "cid": "QmdobFcgtovqFFa8NVQy43FnQmccum1cCb3hruq7tBUtH5",
+    "rarity": "uncommon",
+    "trait": "Reverse Engineer"
+  },
+  "424": {
+    "tokenId": 424,
+    "cid": "QmQ5HUz4Dw8LAqigRmh98zdrc5Yi96aV96DXPgiTQiyhAF",
+    "rarity": "uncommon",
+    "trait": "Fuzzer"
+  },
+  "425": {
+    "tokenId": 425,
+    "cid": "QmXpmVDAQ8vFwKkLvJsZpb3iUj6yEutB1B2Jxp1ACS5FUP",
+    "rarity": "uncommon",
+    "trait": "Shellcoder"
+  },
+  "426": {
+    "tokenId": 426,
+    "cid": "QmZR7qASUT7rry953efFGQrJmEoCw7JPXN8KqQmdrU5XMK",
+    "rarity": "common",
+    "trait": "Network Sniffer"
+  },
+  "427": {
+    "tokenId": 427,
+    "cid": "QmZLjc36qii2wXfJsUs2Lctj6FsuCfgpvRU5UiRXB1zvc9",
+    "rarity": "common",
+    "trait": "Steganographer"
+  },
+  "428": {
+    "tokenId": 428,
+    "cid": "QmfRaJqgPUsfLmypVQbtbqiUyR15GHS2CKLbtTL2Cy6AZr",
+    "rarity": "common",
+    "trait": "DeFi Hacker"
+  },
+  "429": {
+    "tokenId": 429,
+    "cid": "QmSioG6VSqqD9u2dyZDTtJpcXWdXamwoYuL8tNQ3EQfBQc",
+    "rarity": "rare",
+    "trait": "Flash Loan Wizard"
+  },
+  "430": {
+    "tokenId": 430,
+    "cid": "QmbutEZnVJWqjmhZ3DzzLhEWuWtpfUTJ1zmNir6R5MpjJf",
+    "rarity": "common",
+    "trait": "MEV Hunter"
+  },
+  "431": {
+    "tokenId": 431,
+    "cid": "QmcnAEFDGDAKfUJC4LwseQmGwZBCpZc9DoDhKqfbU6myKW",
+    "rarity": "uncommon",
+    "trait": "Smart Contract Auditor"
+  },
+  "432": {
+    "tokenId": 432,
+    "cid": "QmZQfJn55T9iAWap1T4JpqzSnEXJaEeeTFna3vEjdnDED3",
+    "rarity": "rare",
+    "trait": "Bridge Exploiter"
+  },
+  "433": {
+    "tokenId": 433,
+    "cid": "QmeWDQNePKvLHrCWt724dhUt6WLo1UPyeXnANwJUy2XMbs",
+    "rarity": "uncommon",
+    "trait": "Rug Detector"
+  },
+  "434": {
+    "tokenId": 434,
+    "cid": "QmR4skuWDy7tYnQqYaErEHfMtsi3Cb5pkTj2onowXaeFXo",
+    "rarity": "common",
+    "trait": "Whale Watcher"
+  },
+  "435": {
+    "tokenId": 435,
+    "cid": "Qma7sk7G6WA6PEYAWpm4DK7g46HkTThbbwCy5DVLx4F8mJ",
+    "rarity": "uncommon",
+    "trait": "Liquidity Sniper"
+  },
+  "436": {
+    "tokenId": 436,
+    "cid": "QmSr5E6Ke5ZzDKZHsNitTD6bd5sx5jbozdui5bTfKzzWZe",
+    "rarity": "uncommon",
+    "trait": "On-Chain Analyst"
+  },
+  "437": {
+    "tokenId": 437,
+    "cid": "QmXahRAJ9WFHv1V3nNZ2hAR5z9drymDXij6TrU8gyXH7Hx",
+    "rarity": "uncommon",
+    "trait": "Governance Voter"
+  },
+  "438": {
+    "tokenId": 438,
+    "cid": "QmWvzvQbb5CC12RuEzXDmQqfh2bytuG5Er1MscL5mHnzmg",
+    "rarity": "common",
+    "trait": "Yield Optimizer"
+  },
+  "439": {
+    "tokenId": 439,
+    "cid": "QmRxZVsV5Zh5yX56f74GsQf3ssca74Kdzs9yMQcKM1hiNa",
+    "rarity": "common",
+    "trait": "Cross-Chain Ranger"
+  },
+  "440": {
+    "tokenId": 440,
+    "cid": "QmRYVEXt8ypiBwFjr9fCB4ZP5eCgNuhtcPDPMLd1BW8hH4",
+    "rarity": "rare",
+    "trait": "Blockchain Forensic"
+  },
+  "441": {
+    "tokenId": 441,
+    "cid": "QmdSr4ZydiLhAxkrG3BQRL3uzm8iYSmPfPUHajhDUm34hv",
+    "rarity": "common",
+    "trait": "Crypto OSINT"
+  },
+  "442": {
+    "tokenId": 442,
+    "cid": "QmQMUGqyHsfV9ntW5tUTKfTPZnaRahWxSbgKDZszmDMmtF",
+    "rarity": "epic",
+    "trait": "Web3 Red Team"
+  },
+  "443": {
+    "tokenId": 443,
+    "cid": "QmWFkfuUMPJSFuN5uaBQAyGQ8CSgsoGKUZcdNoYeYzqA48",
+    "rarity": "legendary",
+    "trait": "DAO Infiltrator"
+  },
+  "444": {
+    "tokenId": 444,
+    "cid": "QmdwdHm1891Tbp7z4UukhCDunzkgomXq7peziqEibe7Vhw",
+    "rarity": "epic",
+    "trait": "Token Engineer"
+  },
+  "445": {
+    "tokenId": 445,
+    "cid": "QmPHb7BkS1PEHH2HjLU8C1JUXT5SRoJveZ1hHxyPnL4nLq",
+    "rarity": "common",
+    "trait": "ZK Prover"
+  },
+  "446": {
+    "tokenId": 446,
+    "cid": "QmSKA11bsZSCVo6atnYMZpxn9t7aRHF9DctqXjXMh2D4cd",
+    "rarity": "common",
+    "trait": "Sandwich Botter"
+  },
+  "447": {
+    "tokenId": 447,
+    "cid": "QmeKsbyQgWx8NUs9WVSacrzeAtXPf28jBBSN48m5StvErc",
+    "rarity": "uncommon",
+    "trait": "Mempool Watcher"
+  },
+  "448": {
+    "tokenId": 448,
+    "cid": "QmZHjFYhVQZZNRztM3q3qMzD4TRgZ6rfH4229gDjmeBWbb",
+    "rarity": "common",
+    "trait": "Social Engineer"
+  },
+  "449": {
+    "tokenId": 449,
+    "cid": "QmUK3bXqyVRRaR5i8piGmtjuiVY83nag4Uf7WGiT7ZSXvu",
+    "rarity": "uncommon",
+    "trait": "Malware Dev"
+  },
+  "450": {
+    "tokenId": 450,
+    "cid": "QmTynMczWMjoSQqh45aowLEVjgxEjmTL63Ju4CzSrUJdZd",
+    "rarity": "common",
+    "trait": "Exploit Writer"
+  },
+  "451": {
+    "tokenId": 451,
+    "cid": "QmQ4VXhyyEPmR6Up2tqRhznTMr8TTTr2bcWMw9UbroaVUc",
+    "rarity": "uncommon",
+    "trait": "Forensic Analyst"
+  },
+  "452": {
+    "tokenId": 452,
+    "cid": "QmdAfMUBz9D267RofUxqeJG4pK9CBipzSKvn45QEYsg3rA",
+    "rarity": "uncommon",
+    "trait": "Dark Web Scout"
+  },
+  "453": {
+    "tokenId": 453,
+    "cid": "QmPxn4SqcyXXjHDw5fxQ7EiTCSqC3L7XecT7oBfesbZUuW",
+    "rarity": "common",
+    "trait": "Payload Crafter"
+  },
+  "454": {
+    "tokenId": 454,
+    "cid": "QmYQ5PejTz9szUzXeMRXkvy1huhLVowpKbHeKzWdTGDe5C",
+    "rarity": "uncommon",
+    "trait": "APT Operator"
+  },
+  "455": {
+    "tokenId": 455,
+    "cid": "Qme9iVH9xfG5fpjk6Ebz5C8wgbQzLfxYiucSYYLcTkco76",
+    "rarity": "rare",
+    "trait": "Reverse Engineer"
+  },
+  "456": {
+    "tokenId": 456,
+    "cid": "QmebuXTv6UpRXbUvP1F9XBLwYrA87DVR7sTUaRSXfsRAyU",
+    "rarity": "common",
+    "trait": "Fuzzer"
+  },
+  "457": {
+    "tokenId": 457,
+    "cid": "QmRqM9ebotsxEptxZV2wvS9Gd4ytJC18zai6nLCQpHbv1f",
+    "rarity": "common",
+    "trait": "Shellcoder"
+  },
+  "458": {
+    "tokenId": 458,
+    "cid": "QmTnxEEQDKcsYCMCVuSyUW2NB1cmt3eWoDCRaSVE3RmoCp",
+    "rarity": "rare",
+    "trait": "Network Sniffer"
+  },
+  "459": {
+    "tokenId": 459,
+    "cid": "QmPubiGQzRogsbH56AF23uBhVsjn3N8uFGTNdopceJSKPD",
+    "rarity": "uncommon",
+    "trait": "Steganographer"
+  },
+  "460": {
+    "tokenId": 460,
+    "cid": "QmRria9krkw1zJEmpRqV1Lyg77rKUaXrcMGJpefHqxvawF",
+    "rarity": "legendary",
+    "trait": "DeFi Hacker"
+  },
+  "461": {
+    "tokenId": 461,
+    "cid": "QmfY176Ahcf3SUmzekHCuyg7B3KGm1iHADPK7QGKFCwtLq",
+    "rarity": "common",
+    "trait": "Flash Loan Wizard"
+  },
+  "462": {
+    "tokenId": 462,
+    "cid": "QmV5VpoDgtQXkhc2SeaecfbSnAxNQMMThEb92jTaoDVTTr",
+    "rarity": "uncommon",
+    "trait": "MEV Hunter"
+  },
+  "463": {
+    "tokenId": 463,
+    "cid": "QmZwfSPGUDyXxY4VRPdqk8thu2LAjMe2AWFpaoDQ6zEbsP",
+    "rarity": "uncommon",
+    "trait": "Smart Contract Auditor"
+  },
+  "464": {
+    "tokenId": 464,
+    "cid": "QmPnsnCXsmiQdP6zH9xt6MBz7ysxMGeRMDfKXwRMBgK4mV",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "465": {
+    "tokenId": 465,
+    "cid": "QmdNqDaWdGBAUNocVG3g4zB3tq6MLxdB8VS3Ah32nu5dBw",
+    "rarity": "common",
+    "trait": "Rug Detector"
+  },
+  "466": {
+    "tokenId": 466,
+    "cid": "QmaUdNXtdpHahX6T253B49VqemEhcP3DpKSw1rXKivBMNa",
+    "rarity": "rare",
+    "trait": "Whale Watcher"
+  },
+  "467": {
+    "tokenId": 467,
+    "cid": "QmdNV9KKPGXmuAbZvde1FkGNSAUZYyi6LbwcEiUVtQftP9",
+    "rarity": "uncommon",
+    "trait": "Liquidity Sniper"
+  },
+  "468": {
+    "tokenId": 468,
+    "cid": "QmUN2ixSJEzigQpyxtLu6ULJTnSZCn1H42RGsn1WbYUVxH",
+    "rarity": "common",
+    "trait": "On-Chain Analyst"
+  },
+  "469": {
+    "tokenId": 469,
+    "cid": "QmRxdRogpHMM1sCuYZxJfaUH4W2NZBcA4HoZcx42j2boRP",
+    "rarity": "epic",
+    "trait": "Governance Voter"
+  },
+  "470": {
+    "tokenId": 470,
+    "cid": "QmNSemNVKDwxJ7BBg3pfgojs5iw5jNhy4FT1ZZGgEw355r",
+    "rarity": "uncommon",
+    "trait": "Yield Optimizer"
+  },
+  "471": {
+    "tokenId": 471,
+    "cid": "QmRFgMFYRBiLGC88nqf4ijZMhqXsn4XPpgfzT2Mx3vXj6C",
+    "rarity": "common",
+    "trait": "Cross-Chain Ranger"
+  },
+  "472": {
+    "tokenId": 472,
+    "cid": "QmSx6c4YLa3cna7CAU7gwqhRPjiarsWuwYjHz5cbGAF82P",
+    "rarity": "uncommon",
+    "trait": "Blockchain Forensic"
+  },
+  "473": {
+    "tokenId": 473,
+    "cid": "QmWPXx5LwTNwhMxbJmc8YbfEuTfibZYjZYFAKYUQsLeD7f",
+    "rarity": "common",
+    "trait": "Crypto OSINT"
+  },
+  "474": {
+    "tokenId": 474,
+    "cid": "QmTqu5E3HiZnpPLLMAF5U8SdQuD5NTosCN5uGCHad5X6pT",
+    "rarity": "rare",
+    "trait": "Web3 Red Team"
+  },
+  "475": {
+    "tokenId": 475,
+    "cid": "QmVbXopb631kGp5iTgxA2GCNxNUTWbMWa5bNyFMMYNdhJ9",
+    "rarity": "common",
+    "trait": "DAO Infiltrator"
+  },
+  "476": {
+    "tokenId": 476,
+    "cid": "QmYyFf7fYL4EN2wsHZJ2e2h92sMKkQg9sS6sBWMmvyn118",
+    "rarity": "uncommon",
+    "trait": "Token Engineer"
+  },
+  "477": {
+    "tokenId": 477,
+    "cid": "QmP2qDJzVNQCXFr5oc57VieHSekpRfxfNyQhNW6Ajhn4hg",
+    "rarity": "common",
+    "trait": "ZK Prover"
+  },
+  "478": {
+    "tokenId": 478,
+    "cid": "QmQMLJFeeg8tZt2f4PgmrjB7AdtLHGSW9WD2Krw7TWqrJj",
+    "rarity": "common",
+    "trait": "Sandwich Botter"
+  },
+  "479": {
+    "tokenId": 479,
+    "cid": "QmapNM7KhSqT7oFbKrgFW7kpmnQN1L1jcd5G3PbjqyyY27",
+    "rarity": "common",
+    "trait": "Mempool Watcher"
+  },
+  "480": {
+    "tokenId": 480,
+    "cid": "QmNmrGDKNHibrfsPz31urbcvE3cJTACumhDv7GXc1LnjDD",
+    "rarity": "rare",
+    "trait": "Social Engineer"
+  },
+  "481": {
+    "tokenId": 481,
+    "cid": "QmNNPE5RZtoU87To2K5s8cqqRe3Nj8oMnC8M5WFrPQMmnW",
+    "rarity": "rare",
+    "trait": "Malware Dev"
+  },
+  "482": {
+    "tokenId": 482,
+    "cid": "QmZhsC1N8JweXQVMW2UxFxVmfgcPE96hukxQhycJjgVeyg",
+    "rarity": "uncommon",
+    "trait": "Exploit Writer"
+  },
+  "483": {
+    "tokenId": 483,
+    "cid": "QmUdvSvJ2hddwSfpzQrVXyaGtCngaED96uToLbZyfw51LX",
+    "rarity": "uncommon",
+    "trait": "Forensic Analyst"
+  },
+  "484": {
+    "tokenId": 484,
+    "cid": "QmPGPpGQBRZcpbzLRa52ii6aRRc1b7JmtB7UUr6hGUFEdy",
+    "rarity": "common",
+    "trait": "Dark Web Scout"
+  },
+  "485": {
+    "tokenId": 485,
+    "cid": "Qmf9wZB5rwHWGiLEUfiVEHyTUVNooG4N4VVHf5svnEGdcq",
+    "rarity": "common",
+    "trait": "Payload Crafter"
+  },
+  "486": {
+    "tokenId": 486,
+    "cid": "QmW8BGpQeDdqcv6STCUpgG96tJmpKZUoM6Gg5tuUhKi5us",
+    "rarity": "common",
+    "trait": "APT Operator"
+  },
+  "487": {
+    "tokenId": 487,
+    "cid": "QmTb9tvAbMLTMM7gtBP8CwFcwiQLrVaqjQk3Ux3ZHnskpL",
+    "rarity": "common",
+    "trait": "Reverse Engineer"
+  },
+  "488": {
+    "tokenId": 488,
+    "cid": "QmWcWuPKCJ1qJHyR2SyfQULXZ9gbBQHQRLXnFU5ehs9kte",
+    "rarity": "common",
+    "trait": "Fuzzer"
+  },
+  "489": {
+    "tokenId": 489,
+    "cid": "QmPs99mhUnYYheAAcxUNmjxMnwveQcWAKQr3c3z2Ai3fyY",
+    "rarity": "common",
+    "trait": "Shellcoder"
+  },
+  "490": {
+    "tokenId": 490,
+    "cid": "Qmaa3SDRogEDxevnYfEWGhfNLNe5yaVtyqcenmYWRXkwji",
+    "rarity": "common",
+    "trait": "Network Sniffer"
+  },
+  "491": {
+    "tokenId": 491,
+    "cid": "QmNoq1Rt38f328Gp5VhgZ145MvzLN647Jd9RbzRcRZDPFF",
+    "rarity": "common",
+    "trait": "Steganographer"
+  },
+  "492": {
+    "tokenId": 492,
+    "cid": "QmdUJB3tgRveUu8mDoWxmp23Pc9SwF8WxAo3VZKrotyuh6",
+    "rarity": "rare",
+    "trait": "DeFi Hacker"
+  },
+  "493": {
+    "tokenId": 493,
+    "cid": "QmbzHoLE7wX5ozv5ArvnQsZWBJY3u72g6U9yTfsz25NVJp",
+    "rarity": "common",
+    "trait": "Flash Loan Wizard"
+  },
+  "494": {
+    "tokenId": 494,
+    "cid": "QmT6zwHsdE3iviAqWyZ8ZnQNn6DU8Ees3baZLRVkkiueqR",
+    "rarity": "rare",
+    "trait": "MEV Hunter"
+  },
+  "495": {
+    "tokenId": 495,
+    "cid": "Qmc8c4nvKUYeQD6xR92PQZedf5MJaXoewA86uBibStLf5B",
+    "rarity": "uncommon",
+    "trait": "Smart Contract Auditor"
+  },
+  "496": {
+    "tokenId": 496,
+    "cid": "QmdHeAdD8ZiRf2PCYd2Y7MEhqdQ2VRJNRwXmJRKtmjhEeD",
+    "rarity": "common",
+    "trait": "Bridge Exploiter"
+  },
+  "497": {
+    "tokenId": 497,
+    "cid": "QmfFDxeV5ykZqyeMDwkyuqfa88z3prWhqLZsqVvaFPD1pB",
+    "rarity": "common",
+    "trait": "Rug Detector"
+  },
+  "498": {
+    "tokenId": 498,
+    "cid": "Qmd4kMwicQ97miUwArhtr7DbxMwSMjS5xxQ3GMLSPW17Zx",
+    "rarity": "uncommon",
+    "trait": "Whale Watcher"
+  },
+  "499": {
+    "tokenId": 499,
+    "cid": "Qmcyxi1RByQw7a46PnZNarL91c5Uz9y4epMaqpHkv3R2WW",
+    "rarity": "common",
+    "trait": "Liquidity Sniper"
+  },
+  "500": {
+    "tokenId": 500,
+    "cid": "QmfZLCam1NgJbBfz8gLE6QgPq3uNiPHhbnKYfnLYfEWHso",
+    "rarity": "common",
+    "trait": "On-Chain Analyst"
+  }
+}

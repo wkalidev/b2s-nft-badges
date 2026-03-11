@@ -1,0 +1,802 @@
+{
+  "501": {
+    "tokenId": 501,
+    "cid": "QmbQ6rt6KmGb74Ky7KP4hVGyrnGjiW6dX3mRMLY4kcErJV",
+    "rarity": "legendary",
+    "trait": "Paper Hands Killer",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "502": {
+    "tokenId": 502,
+    "cid": "QmYwVaCL9dK8fK1nwxxioLaGSHfSijB5u87ndHSn7A9PvA",
+    "rarity": "epic",
+    "trait": "CT Alpha Caller",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "503": {
+    "tokenId": 503,
+    "cid": "QmcKz4LTwb179igpbTEZzkGZgs5tacZcVyW2ka7ymmfm3S",
+    "rarity": "legendary",
+    "trait": "Degen Yield Farmer",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "504": {
+    "tokenId": 504,
+    "cid": "QmXJRvCJLnSydSiBhoA9nWW81B6UKq7sgq4nBxYWJnciNf",
+    "rarity": "epic",
+    "trait": "100x Degen",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "505": {
+    "tokenId": 505,
+    "cid": "QmWcTvBE53uD1BTJRf3YTpgUNTn5erjD6rPDzjCPAA3VpQ",
+    "rarity": "epic",
+    "trait": "Rugged Survivor",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "506": {
+    "tokenId": 506,
+    "cid": "QmVaXVkNiahwbxU6gDeeefXhxoHYaLcaoLsPaSizZFWeob",
+    "rarity": "legendary",
+    "trait": "Stack Maxi",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "507": {
+    "tokenId": 507,
+    "cid": "QmTTC2eZ3uUon2ATbF3QDjdQhPKXMV6UB2GkymqJiJ3HZQ",
+    "rarity": "legendary",
+    "trait": "STX OG",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "508": {
+    "tokenId": 508,
+    "cid": "QmUX5SX8E1L7FZqWANwPmm2KZEFSoX3uD6LugtadumRvgz",
+    "rarity": "rare",
+    "trait": "Clarity Wizard",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "509": {
+    "tokenId": 509,
+    "cid": "QmbniJr4dGsp6M48X9e4hwsXzeAicZnnhoXBYVTw867mnB",
+    "rarity": "epic",
+    "trait": "Stacks Native",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "510": {
+    "tokenId": 510,
+    "cid": "QmTghNpfeim1wgwWgqjfsed8XYZ5TEHAce9jJtinpwxv4A",
+    "rarity": "epic",
+    "trait": "BTC L2 Builder",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "511": {
+    "tokenId": 511,
+    "cid": "QmTQ7z9YDsGv3MSVSgLrSp2nncK1sD8xChdWNLTqfAp9rW",
+    "rarity": "epic",
+    "trait": "sBTC Pioneer",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "512": {
+    "tokenId": 512,
+    "cid": "QmQQ48conwTMsfTNUXAD9jvF9NUR3rFMf6iZ9KitVc3aGm",
+    "rarity": "legendary",
+    "trait": "Stack DeFi God",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "513": {
+    "tokenId": 513,
+    "cid": "QmWTWsyAUqUvpbX6gqcHkF7cQBrTmuPmkoDV1KV5hw4kwb",
+    "rarity": "epic",
+    "trait": "Nakamoto Upgrade",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "514": {
+    "tokenId": 514,
+    "cid": "QmRL9UAHUsg3ySR5tpgaMQrw2TfWDDjGZuavfMpsJ9P5Qb",
+    "rarity": "rare",
+    "trait": "Interplanetary Node",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "515": {
+    "tokenId": 515,
+    "cid": "QmTwv3sH5efdyEAHb9oDr6PbRNPCjRHq3ZCuf44YoszTXb",
+    "rarity": "epic",
+    "trait": "Zero Gravity Staker",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "516": {
+    "tokenId": 516,
+    "cid": "QmWHYpRqvZ8VMEsm67Y5FJp5b26XiehsUPRQACJ5juzdC8",
+    "rarity": "legendary",
+    "trait": "Cosmic Bridge Runner",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "517": {
+    "tokenId": 517,
+    "cid": "QmeQddY8NRWcgTboAkjhrcgEkkLB3vfwoQ5Utkw1t2mS9z",
+    "rarity": "epic",
+    "trait": "Galaxy Brain Trader",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "518": {
+    "tokenId": 518,
+    "cid": "QmYwGSxeCxnUbBXKCkBvdtaCc99jAPPXFgLtMcNA1DzQX8",
+    "rarity": "rare",
+    "trait": "Multichain Astronaut",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "519": {
+    "tokenId": 519,
+    "cid": "QmTJtoMHHtgDtwjTUBcZJpKzvMc8nWJYB9WTCjcve17E33",
+    "rarity": "rare",
+    "trait": "DeFi Cosmonaut",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "520": {
+    "tokenId": 520,
+    "cid": "QmYpgpaCM2Vev1mY4Veb8UWqzrRLUjhezxp9L5aLP3AS6P",
+    "rarity": "legendary",
+    "trait": "Galactic Degen",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "521": {
+    "tokenId": 521,
+    "cid": "QmaziNJEARQi9U2RMyVrJP7y28nzxSjfs4w2dv1e3LNKEq",
+    "rarity": "legendary",
+    "trait": "Cosmic Staker",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "522": {
+    "tokenId": 522,
+    "cid": "QmbcC6GN7P9b2QXYVFd5YC2a5mdgd9caVCQT3JE8oSRkYa",
+    "rarity": "legendary",
+    "trait": "Nebula Farmer",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "523": {
+    "tokenId": 523,
+    "cid": "QmVvHrqGJsG7XzmcZCLNh5FetX7dkQHpJTcFLdr4ioQYPQ",
+    "rarity": "epic",
+    "trait": "Star Chain Surfer",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "524": {
+    "tokenId": 524,
+    "cid": "QmWPRmuXwc3N1UcBWzKvRvJDf44SMKzJfJARUSQ2HNCq15",
+    "rarity": "epic",
+    "trait": "Void Trader",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "525": {
+    "tokenId": 525,
+    "cid": "QmeCvcga847CAMj1F4XGYTQAvwTy4tbG7oKdtMQcXu9EBk",
+    "rarity": "epic",
+    "trait": "Pulsar Validator",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "526": {
+    "tokenId": 526,
+    "cid": "QmSHekJe4ZoMCN6E4MMsGkE5UY8BUvGo9zHWYJN3bboj1e",
+    "rarity": "epic",
+    "trait": "Dark Matter Dev",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "527": {
+    "tokenId": 527,
+    "cid": "QmT3RXu3P1DnmdeYFq9cCJ5j1z8ep8FiDjdUWiMcyfi1rX",
+    "rarity": "epic",
+    "trait": "Quasar Flipper",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "528": {
+    "tokenId": 528,
+    "cid": "QmPD6pLYzoV7e92tp3Ha7k2fmLCVQtUHiepk8E4Haa5iNu",
+    "rarity": "legendary",
+    "trait": "Supernova Yield",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "529": {
+    "tokenId": 529,
+    "cid": "QmerVXjEsincxPBZoBrLrZMzjQid3bp18hhg5TrorGv58a",
+    "rarity": "epic",
+    "trait": "Black Hole Liquidity",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "530": {
+    "tokenId": 530,
+    "cid": "QmS5dshQ6DYDSEjZrRR2mCarC29vJ84fAtqG98ythhqhxc",
+    "rarity": "epic",
+    "trait": "Base OG",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "531": {
+    "tokenId": 531,
+    "cid": "QmW6uTRxYBg4DNMKeWE2aCvEZdWyurruNznM9qFfPhtWHg",
+    "rarity": "epic",
+    "trait": "Base Deployer",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "532": {
+    "tokenId": 532,
+    "cid": "QmYx25cdjAZXV4toR1RfrJfWqaUDvDYyPsTAACiNfbv5kt",
+    "rarity": "epic",
+    "trait": "Base Native",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "533": {
+    "tokenId": 533,
+    "cid": "QmRanjddfBJo17uquhJh8xnpzrKU6hdxjrLKqdqRpkiAfY",
+    "rarity": "epic",
+    "trait": "L2 Pioneer",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "534": {
+    "tokenId": 534,
+    "cid": "QmPGtZ1VRsLQLbHE1WQ3FH7XdP1pDdb1u73rVTwoXaqfPw",
+    "rarity": "epic",
+    "trait": "Base Chain God",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "535": {
+    "tokenId": 535,
+    "cid": "QmS7rzdBcAPE1gwv1TLZsuBs34N8YFJQfdNop4BdM8MGEi",
+    "rarity": "legendary",
+    "trait": "Onchain Summer",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "536": {
+    "tokenId": 536,
+    "cid": "QmRUEWHM1FsGUgZSeNzRvHfumpwBVDhoozB3b6r1qcXBCH",
+    "rarity": "epic",
+    "trait": "Base Maxi",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "537": {
+    "tokenId": 537,
+    "cid": "QmbGC5ebEGQVE1Xjg7R59UYiYAbEBi7rU1k4C1iK45yS4x",
+    "rarity": "legendary",
+    "trait": "Coinbase Alumni",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "538": {
+    "tokenId": 538,
+    "cid": "QmPPJbKL28st5ZUZYS6NZ2dxWsNLa1kE24gwPAohxaYg5D",
+    "rarity": "epic",
+    "trait": "Full Degen",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "539": {
+    "tokenId": 539,
+    "cid": "QmYj9EKrvpoNGSHEbykfLaQnhjYWiktr7moDLGPTvfWnUD",
+    "rarity": "epic",
+    "trait": "Ape In",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "540": {
+    "tokenId": 540,
+    "cid": "QmVBgif69V8JFuEy4tJKsYRhMABhQYq7kD7K9LhTQjLQ1A",
+    "rarity": "rare",
+    "trait": "Diamond Hands",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "541": {
+    "tokenId": 541,
+    "cid": "QmUAnb55SJSHXP3S418bNJe6uVtT9mdXndvBXWhHDiSvkU",
+    "rarity": "rare",
+    "trait": "Paper Hands Killer",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "542": {
+    "tokenId": 542,
+    "cid": "QmZV8aUW7PA1R9qhGV8dY22Azq9R9L6L2WPNbWx7QJays7",
+    "rarity": "epic",
+    "trait": "CT Alpha Caller",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "543": {
+    "tokenId": 543,
+    "cid": "QmRoFDgiE29ud5c58YntFDVufKdJ3rfwHaGtgorMFxau2T",
+    "rarity": "epic",
+    "trait": "Degen Yield Farmer",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "544": {
+    "tokenId": 544,
+    "cid": "QmPxzGG1eCUAJnXB5qa54ZqHTXhRz51streRVG3pi8ctLe",
+    "rarity": "legendary",
+    "trait": "100x Degen",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "545": {
+    "tokenId": 545,
+    "cid": "QmRa9HwrA4hAM9C9uV9sVafFUNwQVezUdeDNsq5UWwt4Xi",
+    "rarity": "legendary",
+    "trait": "Rugged Survivor",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "546": {
+    "tokenId": 546,
+    "cid": "QmQr5M7VLBdB3HQvtLTnSHbJpm5oMXoZboQzYGRcwPq3hf",
+    "rarity": "rare",
+    "trait": "Stack Maxi",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "547": {
+    "tokenId": 547,
+    "cid": "QmWi551kYHVGMxsPhtGRRf6DteuNxfXzTSiMHeDa41uzQL",
+    "rarity": "epic",
+    "trait": "STX OG",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "548": {
+    "tokenId": 548,
+    "cid": "QmP1aQjuu6FohVKKNhoqeXpyiuS5q4vcDkaZGDKQqZAyBM",
+    "rarity": "epic",
+    "trait": "Clarity Wizard",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "549": {
+    "tokenId": 549,
+    "cid": "QmRgZNMMZFxE5owcsU5DiWcnVRM1z2vUeYrBW4Zv6vchwy",
+    "rarity": "rare",
+    "trait": "Stacks Native",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "550": {
+    "tokenId": 550,
+    "cid": "QmNkXsTD3ijrm1ErGskJk4fWKvJVBxdsSboxnAixDcV7dP",
+    "rarity": "epic",
+    "trait": "BTC L2 Builder",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "551": {
+    "tokenId": 551,
+    "cid": "QmbNy55T28Z6ksLazFE5ntrMu3ysdaJU3F3zYkTpUyq9Aw",
+    "rarity": "rare",
+    "trait": "sBTC Pioneer",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "552": {
+    "tokenId": 552,
+    "cid": "QmQ8rQ2daPR5a42BVSzrijFXXB1ERNPt3ASM7wgrNKfHy2",
+    "rarity": "epic",
+    "trait": "Stack DeFi God",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "553": {
+    "tokenId": 553,
+    "cid": "QmdQF9RFTrURgMbtD4XREjrhVuWc8Voi3iLC7fr5GQuQYS",
+    "rarity": "epic",
+    "trait": "Nakamoto Upgrade",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "554": {
+    "tokenId": 554,
+    "cid": "QmdyjpkdvqCxTmJnFQ3tfseE3Gc5CgpYUbRnW1fs1sNB9P",
+    "rarity": "legendary",
+    "trait": "Interplanetary Node",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "555": {
+    "tokenId": 555,
+    "cid": "QmVarLiQSzPvJvxwpnFSdmhvv1mEbiKiLowBmNfAfg3qoV",
+    "rarity": "epic",
+    "trait": "Zero Gravity Staker",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "556": {
+    "tokenId": 556,
+    "cid": "QmR7zPfmAZrBQTf6pYnnFdu9QWrmFP3rgRdoSb59YWwyP3",
+    "rarity": "epic",
+    "trait": "Cosmic Bridge Runner",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "557": {
+    "tokenId": 557,
+    "cid": "QmV83QLZbE9n3rE8dTZLrMirrTg9wx7HFraAEyGNtGH52F",
+    "rarity": "legendary",
+    "trait": "Galaxy Brain Trader",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "558": {
+    "tokenId": 558,
+    "cid": "QmagAz7LcCp2MCYT31R2F3We6utjJobJNbwgu2bSjS6YpB",
+    "rarity": "epic",
+    "trait": "Multichain Astronaut",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "559": {
+    "tokenId": 559,
+    "cid": "Qma5zzF4wywJA6Sjni7LX32F9219iHwxPw3i6696JbUyyg",
+    "rarity": "epic",
+    "trait": "DeFi Cosmonaut",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "560": {
+    "tokenId": 560,
+    "cid": "QmRtJtnxAuyTyUwN1jzZhrJJxZnmYyj1srur1yKgh64jTa",
+    "rarity": "legendary",
+    "trait": "Galactic Degen",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "561": {
+    "tokenId": 561,
+    "cid": "QmTajFpjZnH3zje9c1qZxTV7wQyZsg43YPdbKhXEAeJjCW",
+    "rarity": "epic",
+    "trait": "Cosmic Staker",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "562": {
+    "tokenId": 562,
+    "cid": "QmUTRkG559tCaV7krKUG7ECcHca5xNFcsgh6iJ67WyVhAQ",
+    "rarity": "rare",
+    "trait": "Nebula Farmer",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "563": {
+    "tokenId": 563,
+    "cid": "QmSPdEXwLfLk6Y6pPK5b3egEznQwgfYmS4HPZ3GXzEH4Gk",
+    "rarity": "legendary",
+    "trait": "Star Chain Surfer",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "564": {
+    "tokenId": 564,
+    "cid": "QmQHTjRYfv5YLBapgYWs1SBTRbstvT2fyRLto81K6dHco2",
+    "rarity": "epic",
+    "trait": "Void Trader",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "565": {
+    "tokenId": 565,
+    "cid": "QmbFa32hwPwEFrigpkx1dRWM9UBNn4PHYdDzfDc17CP9Qb",
+    "rarity": "rare",
+    "trait": "Pulsar Validator",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "566": {
+    "tokenId": 566,
+    "cid": "QmQEU7vDGK7JLayC8esm9shmpAapW563wF9JtJGAe6xrua",
+    "rarity": "epic",
+    "trait": "Dark Matter Dev",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "567": {
+    "tokenId": 567,
+    "cid": "QmdsFBE6FQt5USUacFnKbR95NADJPPo3g3siXHbvHbHEn4",
+    "rarity": "rare",
+    "trait": "Quasar Flipper",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "568": {
+    "tokenId": 568,
+    "cid": "QmdY7YXH6ztY3m1mqzCfU4b6yJwMcck4kGMgwhpW4fTabG",
+    "rarity": "epic",
+    "trait": "Supernova Yield",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "569": {
+    "tokenId": 569,
+    "cid": "QmfCsF9K812r1UM7iPGY1juyWEL5ZZRTjDLP1kvhZA5Mn1",
+    "rarity": "rare",
+    "trait": "Black Hole Liquidity",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "570": {
+    "tokenId": 570,
+    "cid": "QmXh6Q88sXEw5ZJ4K9zBpPC4bQiJXGDuzRyiR7t4eqy5tQ",
+    "rarity": "epic",
+    "trait": "Base OG",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "571": {
+    "tokenId": 571,
+    "cid": "QmP7daU4VL483VdcY7UNU4EeqpMXbWmhWR8BFfHv5ybULi",
+    "rarity": "rare",
+    "trait": "Base Deployer",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "572": {
+    "tokenId": 572,
+    "cid": "QmZh8TgE3mNfcuLgVfxQycazosbHBB85QW52jEG6vX6NGw",
+    "rarity": "legendary",
+    "trait": "Base Native",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "573": {
+    "tokenId": 573,
+    "cid": "QmNkWho9Uxtkw5pBaH4oP81SgTArsvPzXfnBcHAG8hvJi7",
+    "rarity": "rare",
+    "trait": "L2 Pioneer",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "574": {
+    "tokenId": 574,
+    "cid": "QmXef4TdgKsp24YMPN4P49yWZ4x8Wdz7uoqBEh3vYcFLM9",
+    "rarity": "epic",
+    "trait": "Base Chain God",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "575": {
+    "tokenId": 575,
+    "cid": "QmTqViyCpunJqkv5csew9vucSzy6etaQzWceuGuGjqS476",
+    "rarity": "epic",
+    "trait": "Onchain Summer",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "576": {
+    "tokenId": 576,
+    "cid": "QmRC23ou7LDKTVwcU1LfH5ZePvSip7T23EBz9NLda4D8c5",
+    "rarity": "rare",
+    "trait": "Base Maxi",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "577": {
+    "tokenId": 577,
+    "cid": "QmXcKhWVtZimUQZX6xMur5iGAYkW8TFajpTH7NfBa7xFrp",
+    "rarity": "rare",
+    "trait": "Coinbase Alumni",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "578": {
+    "tokenId": 578,
+    "cid": "QmYe3FNoZTpgNt4uSQwpnqchE1JSE98SoruHQp3dwSciNg",
+    "rarity": "legendary",
+    "trait": "Full Degen",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "579": {
+    "tokenId": 579,
+    "cid": "QmR2Yuy9HUZorQPbw6sbgwQmHXDgXjpPzt2mTcVBCDB92q",
+    "rarity": "rare",
+    "trait": "Ape In",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "580": {
+    "tokenId": 580,
+    "cid": "Qmag2muoEcihythtirwdkiBpfrVR1ixx2KHPsmqBRXuvSB",
+    "rarity": "legendary",
+    "trait": "Diamond Hands",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "581": {
+    "tokenId": 581,
+    "cid": "QmSLpmSAYPUnyPQhEbttgMBzRABnRuUoonE6UDhQTnEUjo",
+    "rarity": "legendary",
+    "trait": "Paper Hands Killer",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "582": {
+    "tokenId": 582,
+    "cid": "QmXeLBPFfQKEbMjwwgsNy2erC5FGandHyXX9SiSB6s5d9Z",
+    "rarity": "epic",
+    "trait": "CT Alpha Caller",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "583": {
+    "tokenId": 583,
+    "cid": "QmZ5jh8kYGwmo2oHa5Xz6rQwqA1JA8WCrHvgGm884uFTrJ",
+    "rarity": "epic",
+    "trait": "Degen Yield Farmer",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "584": {
+    "tokenId": 584,
+    "cid": "QmRA81SEU9qHSRQ87JTf2dvwy9pbKLybNEY8jz8XKEZeHY",
+    "rarity": "legendary",
+    "trait": "100x Degen",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "585": {
+    "tokenId": 585,
+    "cid": "QmWtuvH3ZTXxDdwiBNHDb5rsQeQcxC5puxshY6H34qPZ8D",
+    "rarity": "legendary",
+    "trait": "Rugged Survivor",
+    "theme": "degen",
+    "series": "galactic"
+  },
+  "586": {
+    "tokenId": 586,
+    "cid": "QmVZMHRKvYtcVNj4pSuR6WhAeyrwZX4KKnmA2assADefKt",
+    "rarity": "rare",
+    "trait": "Stack Maxi",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "587": {
+    "tokenId": 587,
+    "cid": "QmetDP4rvPP6MiPH69tePP11ygMqFaKSQDDuibtRHhBmTR",
+    "rarity": "epic",
+    "trait": "STX OG",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "588": {
+    "tokenId": 588,
+    "cid": "QmU7Tjp6Fku34ThrhowfLdehhYfFkQ5LdhP5sFUcEL7tNY",
+    "rarity": "epic",
+    "trait": "Clarity Wizard",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "589": {
+    "tokenId": 589,
+    "cid": "QmTpTC3foY589ybRbjHRPUybj7HcH3cL6AZc5AQtxuEomw",
+    "rarity": "epic",
+    "trait": "Stacks Native",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "590": {
+    "tokenId": 590,
+    "cid": "Qmbvw2hZkSA6ChE5r4RvYYjaqik1SY1615nH3u5cnnUrAs",
+    "rarity": "rare",
+    "trait": "BTC L2 Builder",
+    "theme": "base",
+    "series": "galactic"
+  },
+  "591": {
+    "tokenId": 591,
+    "cid": "QmdMuYpg1b8tmfXuU1kgFRGbwhAytB7TvYguknnqGDKG5D",
+    "rarity": "rare",
+    "trait": "sBTC Pioneer",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "592": {
+    "tokenId": 592,
+    "cid": "QmURWCiQh2sT2MsvNzwJuLK7akHDJihGbmMJ2cXG7dHjEd",
+    "rarity": "epic",
+    "trait": "Stack DeFi God",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "593": {
+    "tokenId": 593,
+    "cid": "Qmd9aoMM1jWYQXi5LDK7MTwcThe49PofhjiyfUw4kJE5kx",
+    "rarity": "legendary",
+    "trait": "Nakamoto Upgrade",
+    "theme": "stack",
+    "series": "galactic"
+  },
+  "594": {
+    "tokenId": 594,
+    "cid": "QmRYe9oSm2HmYtD8juRzuTUinrtWozFGnDjNKQ7TRRDtFe",
+    "rarity": "legendary",
+    "trait": "Interplanetary Node",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "595": {
+    "tokenId": 595,
+    "cid": "QmaaE1s4Up6LQ6fDEYbs9k9rL6joCS66LGXh9oDAKRRjM6",
+    "rarity": "legendary",
+    "trait": "Zero Gravity Staker",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "596": {
+    "tokenId": 596,
+    "cid": "QmdtpHCZZ82snsUXurjWCpijNX3SL38rMeEgBJjQdrJRUY",
+    "rarity": "legendary",
+    "trait": "Cosmic Bridge Runner",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "597": {
+    "tokenId": 597,
+    "cid": "QmeMUE2DSytVCX1uX397onNRFPBW7kHqsp66kLxU7mLNRz",
+    "rarity": "legendary",
+    "trait": "Galaxy Brain Trader",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "598": {
+    "tokenId": 598,
+    "cid": "QmQXndELmnabWJpHPj6ko3cSaCoQBQVSQJgJ1veQ9BPHze",
+    "rarity": "epic",
+    "trait": "Multichain Astronaut",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "599": {
+    "tokenId": 599,
+    "cid": "QmPhJ6kJXvhVzCoEkFS6jqVwN3H9aVTpL7W5dpLccsb9tB",
+    "rarity": "rare",
+    "trait": "DeFi Cosmonaut",
+    "theme": "galactic",
+    "series": "galactic"
+  },
+  "600": {
+    "tokenId": 600,
+    "cid": "QmQYmriJTkuiWw4YyCD2ey3djC4dioRoF4g4PYYQk8h1pf",
+    "rarity": "legendary",
+    "trait": "Galactic Degen",
+    "theme": "galactic",
+    "series": "galactic"
+  }
+}
