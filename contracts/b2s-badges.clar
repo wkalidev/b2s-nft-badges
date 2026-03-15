@@ -60,6 +60,7 @@
   (let ((token-id (+ (var-get last-token-id) u1)))
     (asserts! (is-eq tx-sender contract-owner) err-not-authorized)
     (asserts! (is-some (map-get? badge-metadata badge-id)) err-not-found)
+    (asserts! (check-eligibility recipient badge-id user-amount) err-not-eligible)
     (try! (nft-mint? b2s-badge token-id recipient))
     (var-set last-token-id token-id)
     (ok token-id)
