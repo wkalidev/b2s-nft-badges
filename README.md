@@ -231,4 +231,4 @@ MIT — See [LICENSE](./LICENSE)
 
 ---
 
-**Built for #StacksBuilderRewards March 2026 🏆 · Collect them all! 🎖️**
+**Built for #StacksBuilderRewards March 2026 🏆 · Collect them all! 🎖️**\n## Series\n- Infosec #1-170\n- Glitch Art #201-500\n- Galactic #501-600 (ultra rare)
