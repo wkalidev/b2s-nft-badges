@@ -108,7 +108,19 @@
     (asserts! (get active listing) err-not-listed)
     (asserts! (not (is-eq buyer seller)) err-not-authorized)
     
-    ;; Transfer badge ownership
+    ;;   Transfer STX from buyer → seller
+    (asserts!
+     (is-ok (stx-transfer? seller-amount buyer seller))
+     err-insufficient-funds
+    )
+
+    ;;   Transfer platform fee → contract owner
+    (asserts!
+      (is-ok (stx-transfer? platform-fee buyer contract-owner))
+      err-insufficient-funds
+    )
+
+    ;;   Transfer badge ownership AFTER payment succeeds
     (map-set badge-owners {badge-id: badge-id} buyer)
     
     ;; Deactivate listing
