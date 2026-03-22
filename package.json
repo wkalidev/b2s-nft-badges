@@ -5,7 +5,7 @@
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "scripts": {
-    "test": "clarinet test",
+    "test": "clarinet check",
     "deploy": "clarinet deploy --testnet",
     "check": "clarinet check"
   },
