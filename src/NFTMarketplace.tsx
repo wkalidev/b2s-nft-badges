@@ -1,5 +1,5 @@
 'use client';
-import { useState, useEffect, useCallback } from 'react';
+import { useState, useEffect, useCallback, useRef } from 'react';
 
 // ─── MULTI-GATEWAY FALLBACK ────────────────────────────────────
 const GATEWAYS = [
@@ -15,6 +15,56 @@ function getGatewayUrl(cid: string, gatewayIndex = 0): string {
 
 function extractCid(url: string): string {
   return url.split('/ipfs/').pop() ?? url;
+}
+
+// Promise.any fallback for older browsers
+const promiseAnyFallback = async <T,>(promises: Promise<T>[]): Promise<T> => {
+  const errors: any[] = [];
+  for (const promise of promises) {
+    try {
+      return await promise;
+    } catch (error) {
+      errors.push(error);
+    }
+  }
+  throw new AggregateError(errors, 'All promises rejected');
+};
+
+// Global cache for fastest gateways (persists across component instances)
+const gatewayCache = new Map<string, string>();
+
+async function getFastestGatewayUrl(cid: string): Promise<string> {
+  // Check cache first
+  if (gatewayCache.has(cid)) {
+    return gatewayCache.get(cid)!;
+  }
+
+  const controllers = GATEWAYS.map(() => new AbortController());
+
+  const requests = GATEWAYS.map((gateway, i) =>
+    fetch(`${gateway}${cid}`, {
+      method: 'HEAD',
+      signal: controllers[i].signal,
+    })
+      .then(() => {
+        // Cancel other requests
+        controllers.forEach((c, j) => j !== i && c.abort());
+        const url = `${gateway}${cid}`;
+        gatewayCache.set(cid, url);
+        return url;
+      })
+  );
+
+  try {
+    // Use native Promise.any or fallback
+    const fastest = await (Promise.any || promiseAnyFallback)(requests);
+    return fastest;
+  } catch (error) {
+    console.warn(`All gateways failed for ${cid}, using fallback`);
+    const fallback = getGatewayUrl(cid, 0);
+    gatewayCache.set(cid, fallback);
+    return fallback;
+  }
 }
 
 const IPFS_BADGES = [
@@ -215,36 +265,75 @@ const RARITY_ICON: Record<Rarity, string> = {
 };
 
 function NFTImage({ badge, className = '' }: { badge: typeof IPFS_BADGES[0], className?: string }) {
-  const [gatewayIndex, setGatewayIndex] = useState(0);
-  const [loaded, setLoaded]             = useState(false);
-  const [failed, setFailed]             = useState(false);
-  const [retrying, setRetrying]         = useState(false);
-  const [timeoutId, setTimeoutId]       = useState<ReturnType<typeof setTimeout> | null>(null);
-
+  const [loaded, setLoaded] = useState(false);
+  const [failed, setFailed] = useState(false);
+  const [src, setSrc] = useState<string>('');
+  const [isLoading, setIsLoading] = useState(true);
+  
   const cid = extractCid(badge.imageUrl);
-  const src = getGatewayUrl(cid, gatewayIndex);
+  const isMountedRef = useRef(true);
 
-  // ✅ FIX: useEffect instead of useState for cleanup
   useEffect(() => {
+    isMountedRef.current = true;
     return () => {
-      if (timeoutId) clearTimeout(timeoutId);
+      isMountedRef.current = false;
     };
-  }, [timeoutId]);
+  }, []);
+
+  useEffect(() => {
+    let timeoutId: ReturnType<typeof setTimeout>;
+    
+    const loadImage = async () => {
+      try {
+        const fastestUrl = await getFastestGatewayUrl(cid);
+        if (isMountedRef.current) {
+          setSrc(fastestUrl);
+          setIsLoading(false);
+        }
+      } catch (error) {
+        if (isMountedRef.current) {
+          setFailed(true);
+          setIsLoading(false);
+        }
+      }
+    };
+
+    loadImage();
+
+    // Timeout fallback after 8 seconds
+    timeoutId = setTimeout(() => {
+      if (isMountedRef.current && isLoading) {
+        console.warn(`Image timeout for ${cid}, using fallback`);
+        setSrc(getGatewayUrl(cid, 0));
+        setIsLoading(false);
+      }
+    }, 8000);
+
+    return () => {
+      clearTimeout(timeoutId);
+    };
+  }, [cid]);
 
   const handleError = useCallback(() => {
-    const nextIndex = gatewayIndex + 1;
+    if (!src || !isMountedRef.current) return;
+    
+    // Try next gateway on error with exponential backoff
+    const currentGateway = GATEWAYS.findIndex(g => src.startsWith(g));
+    const nextIndex = currentGateway + 1;
+    
     if (nextIndex < GATEWAYS.length) {
-      const delay = nextIndex * 800;
-      setRetrying(true);
-      const t = setTimeout(() => {
-        setGatewayIndex(nextIndex);
-        setRetrying(false);
+      const delay = Math.min(1000 * Math.pow(2, nextIndex), 5000);
+      setIsLoading(true);
+      setTimeout(() => {
+        if (isMountedRef.current) {
+          setSrc(getGatewayUrl(cid, nextIndex));
+          setIsLoading(false);
+        }
       }, delay);
-      setTimeoutId(t);
     } else {
       setFailed(true);
     }
-  }, [gatewayIndex]);
+  }, [src, cid]);
 
   if (failed) {
     return (
@@ -257,14 +346,16 @@ function NFTImage({ badge, className = '' }: { badge: typeof IPFS_BADGES[0], cla
 
   return (
     <div className="relative w-full h-full bg-gray-900">
-      {(!loaded || retrying) && (
+      {isLoading && (
         <div className="absolute inset-0 bg-gray-800 animate-pulse" style={{ background: '#1f2937' }} />
       )}
-      {!retrying && (
+      {src && (
         <img
           src={src}
           alt={badge.name}
-          className={`w-full h-full object-cover transition-opacity duration-500 ${loaded ? 'opacity-100' : 'opacity-0'}`}
+          className={`w-full h-full object-cover transition-opacity duration-500 ${
+            !isLoading ? 'opacity-100' : 'opacity-0'
+          }`}
           loading="lazy"
           decoding="async"
           onLoad={() => setLoaded(true)}
@@ -276,11 +367,25 @@ function NFTImage({ badge, className = '' }: { badge: typeof IPFS_BADGES[0], cla
 }
 
 export default function NFTMarketplace() {
-  const [filter, setFilter]     = useState<Rarity | 'all'>('all');
-  const [search, setSearch]     = useState('');
+  const [filter, setFilter] = useState<Rarity | 'all'>('all');
+  const [search, setSearch] = useState('');
   const [selected, setSelected] = useState<typeof IPFS_BADGES[0] | null>(null);
-  const [page, setPage]         = useState(0);
+  const [page, setPage] = useState(0);
   const PER_PAGE = 24;
+
+  // Preload first few images on mount for better UX
+  useEffect(() => {
+    const firstFew = IPFS_BADGES.slice(0, 6);
+    firstFew.forEach(badge => {
+      const cid = extractCid(badge.imageUrl);
+      getFastestGatewayUrl(cid).then(url => {
+        const img = new Image();
+        img.src = url;
+      }).catch(() => {
+        // Silent fail - preloading is optional
+      });
+    });
+  }, []);
 
   const filtered = IPFS_BADGES.filter(b => {
     if (filter !== 'all' && b.rarity !== filter) return false;
@@ -289,14 +394,14 @@ export default function NFTMarketplace() {
     return true;
   });
 
-  const pages     = Math.ceil(filtered.length / PER_PAGE);
+  const pages = Math.ceil(filtered.length / PER_PAGE);
   const displayed = filtered.slice(page * PER_PAGE, (page + 1) * PER_PAGE);
 
   const stats = {
-    total:     IPFS_BADGES.length,
+    total: IPFS_BADGES.length,
     legendary: IPFS_BADGES.filter(b => b.rarity === 'legendary').length,
-    epic:      IPFS_BADGES.filter(b => b.rarity === 'epic').length,
-    rare:      IPFS_BADGES.filter(b => b.rarity === 'rare').length,
+    epic: IPFS_BADGES.filter(b => b.rarity === 'epic').length,
+    rare: IPFS_BADGES.filter(b => b.rarity === 'rare').length,
   };
 
   return (
@@ -312,10 +417,10 @@ export default function NFTMarketplace() {
 
       <div className="grid grid-cols-2 sm:grid-cols-4 gap-3">
         {[
-          { label: 'Total on IPFS', value: stats.total,     color: 'text-white' },
-          { label: '🌟 Legendary',  value: stats.legendary,  color: 'text-yellow-400' },
-          { label: '★ Epic',        value: stats.epic,       color: 'text-purple-400' },
-          { label: '◆◆◆ Rare',     value: stats.rare,       color: 'text-blue-400' },
+          { label: 'Total on IPFS', value: stats.total, color: 'text-white' },
+          { label: '🌟 Legendary', value: stats.legendary, color: 'text-yellow-400' },
+          { label: '★ Epic', value: stats.epic, color: 'text-purple-400' },
+          { label: '◆◆◆ Rare', value: stats.rare, color: 'text-blue-400' },
         ].map(s => (
           <div key={s.label} className="bg-gray-800/50 border border-gray-700/50 rounded-xl p-3 text-center">
             <div className={`text-2xl font-bold ${s.color}`}>{s.value}</div>
