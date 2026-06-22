@@ -1,8 +1,8 @@
-# 🛒 B2S NFT Marketplace
+﻿# 🛒 B2S NFT Marketplace
 
 Complete guide to buying and selling achievement badge NFTs on Stacks mainnet.
 
-**Deployer**: `SP936YWJPST8GB8FFRCN7CC6P2YR5K6NNBAARQ96`  
+**Deployer**: `SP1V72500C63KN9E348QDK9X879MASSTN0J3KBQ5N`  
 **Status**: ✅ Live on Stacks Mainnet  
 **Platform Fee**: 2.5%
 
@@ -93,7 +93,7 @@ You Receive: 24.375 $B2S
 ## 🔧 Smart Contract Functions
 
 ```clarity
-;; Contract: SP936YWJPST8GB8FFRCN7CC6P2YR5K6NNBAARQ96.b2s-airdrop-v2
+;; Contract: SP1V72500C63KN9E348QDK9X879MASSTN0J3KBQ5N.b2s-airdrop-v2
 
 ;; List badge for sale
 (list-badge (badge-id uint) (price uint))

@@ -1,4 +1,4 @@
-# Integration Guide
+﻿# Integration Guide
 
 ## Check if user has badge
 (define-read-only (has-badge (user principal) (token-id uint))
@@ -7,5 +7,5 @@
 
 ## Mint badge (admin only)
 (contract-call? 
-  'SP936YWJPST8GB8FFRCN7CC6P2YR5K6NNBAARQ96.b2s-badges
+  'SP1V72500C63KN9E348QDK9X879MASSTN0J3KBQ5N.b2s-badges
   mint-badge recipient badge-id)

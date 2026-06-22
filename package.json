@@ -1,5 +1,5 @@
 {
-  "name": "@b2s/nft-badges",
+  "name": "@wkalidev/b2s-badges",
   "version": "1.0.0",
   "description": "NFT achievement badges for B2S ecosystem",
   "main": "dist/index.js",

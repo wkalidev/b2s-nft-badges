@@ -1,4 +1,4 @@
-# Badge System
+﻿# Badge System
 ## Tiers
 - Bronze, Silver, Gold, Diamond
 # 🎖️ B2S Badge System
@@ -7,7 +7,7 @@ Complete reference for all NFT achievement badges in the Base2Stacks ecosystem.
 
 **Standard**: SIP-009 · **Network**: Stacks Mainnet · **Total Supply**: 200  
 **IPFS Status**: 167/200 uploaded · Seeds 171-200 pending  
-**Contract**: `SP936YWJPST8GB8FFRCN7CC6P2YR5K6NNBAARQ96.b2s-airdrop-v2`
+**Contract**: `SP1V72500C63KN9E348QDK9X879MASSTN0J3KBQ5N.b2s-airdrop-v2`
 
 ---
 
